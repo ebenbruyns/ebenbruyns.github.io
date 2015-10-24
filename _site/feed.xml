@@ -1,42 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 22 Oct 2015 15:45:42 +1300</pubDate>
-    <lastBuildDate>Thu, 22 Oct 2015 15:45:42 +1300</lastBuildDate>
-    <generator>Jekyll v2.5.3</generator>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">The new adventures of Taleisin</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2015-10-24T15:10:18+13:00</updated>
+<id>/</id>
+<author>
+  <name>Eben and Annie</name>
+  <uri>/</uri>
+  
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Sailing Taleisin for the First Time]]></title>
+  <link rel="alternate" type="text/html" href="/sailing-taleisin-for-the-first-time/" />
+  <id>/sailing-taleisin-for-the-first-time</id>
+  <updated>2015-10-24T00:00:00-00:00</updated>
+  <published>2015-10-22T22:15:33+13:00</published>
+  
+  <author>
+    <name>Eben and Annie</name>
+    <uri></uri>
     
-      <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+  </author>
+  <content type="html">
+    &lt;p&gt;This story begins early the previous morning. We had to drive 1 hour to Sandspit to catch the ferry which would drop us off on the Pardey’s jetty. Once we got there we rowed out to Taleisin like we have done a few times in the past. We loaded our personal belongings onto Taleisin, only what we needed to survive for the next 2 days. This meant we had some food and warm clothes should the weather require it.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;After loading our personal belongings on the boat we spent some time with Lin in the boat workshop. She spent quite a while explaining what all the bits and pieces are that we should be loading onto Taleisin. There was a big pile of it, I remember asking Lin where it would all fit. Lin assured me that it’s all been on Taleisin and that she will swallow it without any issues. After going through everything in detail we began the long day of ferrying everything to Taleisin via Cheeky&lt;sup&gt;2&lt;/sup&gt;. I had a discussion with Lin about the weather forecast as some heavy weather was forecast for the afternoon. We decided that we’ll set sail early in the morning and we should hopefully beat the bad weather, it’s only about 30 nautical miles to sail. Loading Taleisin took a very long and time we were absolutely exhausted as we finished the last load in the dark.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;We got up as early as we could manage, had a quick breakfast and started to prepare Taleisin to set sail. I rigged up a GoPro and set it to record while this was going on. Underestimating the battery life on the GoPro it ran out of power long before things got exciting. Below is an edit of some of the footage, there’s not much going on but it will give you an idea of what was going on.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/yCuMyVlxJ3A&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Something to keep in mind, Annie and I have never sailed a big boat on our own. We’ve had some sailing lessons, been on a couple of sailing trips with people who are experienced. That was about the extent of our sailing experience on big boats. I’m very fortunate that my day job requires me to learn things very quickly, retain them, and put them to use almost immediately. This skill came in very handy when it was time to sail Taleisin out of the cove. Taleisin does not have an engine, this means there’s a bonus challenge when it comes to sailing, everything must be done under sail or via sculling oar. Given that at this point I’ve never sculled a boat in my life, we’re sailing off the mooring.&lt;/p&gt;
 
-</description>
-        <pubDate>Fri, 23 Oct 2015 04:42:21 +1300</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/23/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/23/welcome-to-jekyll.html</guid>
-        
-        
-        <category>jekyll</category>
-        
-        <category>update</category>
-        
-      </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;It was very calm in the morning and hardly any wind in the cove. Once we prepared Taleisin, I asked Annie if she’d prefer to be on the helm or drop the mooring line. She opted to drop the mooring line as it was less responsibility and something she felt was easier to do.&lt;/p&gt;
+
+&lt;p&gt;We stored cheeky&lt;sup&gt;2&lt;/sup&gt; on deck, hoisted the sails, tucked a reef in the main and Annie went forward to drop the mooring line. I pulled the sheets in, pulled the tiller over, took a deep breath… thinking “here we go”! The sails filled gently Taleisin picked up enough way and we started moving. I recall Annie asking, so when do we start sailing? My response was, we’re sailing now, it’s just very slow, but we’re sailing!&lt;/p&gt;
+
+&lt;p&gt;We slowly weaved our way through all the moored boats and eventually made it out of the cove. We decided the previous night that we’d sail through the inner channel as it seemed like it might be more sheltered in case the weather pick up as there was a few islands that might provide some protection from the rougher seas. We had a glorious morning of easy sailing, the winds were light the water was smooth. I remember thinking, this is what life should be all about! Sailing is slow going, it’s great if you don’t have to be anywhere in a hurry! We removed the reef from the main and hoisted the big jib instead of the staysail.&lt;/p&gt;
+
+&lt;p&gt;Once we sailed past Motuora Island things started to get a bit more exciting. The wind has slowly increased and we haven’t noticed as we’ve been running with it the whole way. The waves started to build. We don’t agree on the exact hight of the waves, but they were sufficiently big enough to cause Annie to get seasick. The swell was beam on, at no point did we feel in danger so we didn’t change course. Taleisin was just taking this all in her stride. Annie spent some time hanging over the lee rail. She eventually recovered and we sailed on towards the Whagaparoa passage.&lt;/p&gt;
+
+&lt;p&gt;At this point We changed course towards long bay, the swell was now pushing us along and Taleisin was surfing the waves - this is a LOT of fun. Taleisin was very stable during this whole experience! After doing a bit of fun sailing we realised that we should probably sail around Devenport. I went down below to grab the ipad to verify our position and check out the charts on it. Due to the sea state I rushed back up on deck and I turned green very quickly. Now it was my turn to hang over the lee rail for over an hour. Annie did a fantastic job at the helm while I recovered. At this point we’re sailing towards Rangitoto Island with the intention of jibing once we pass Devenport. It will be an easy run into the marina.&lt;/p&gt;
+
+&lt;p&gt;Once we got to Devenport I said to Annie, lets Jibe! So we went through the procedure, started to jibe… That’s when I realised that the wind was blowing a &lt;em&gt;lot&lt;/em&gt; stronger than we realised. All of a sudden the heel was far more than we were comfortable. I yelled let the sheets go! Annie let the jib sheet go, I let the main sheet go, I pulled the helm hard over, Taleisin came back up right and I pointed her into the wind. I yelled out to Annie, get on the helm, keep her into the wind, I’m changing sails and reefing the main.&lt;/p&gt;
+
+&lt;p&gt;I went forward, dropped the jib, dropped the main, put a reef in the main, hoisted the main and hoisted the staysail. That felt much better, less sail was a lot more manageable. Later we learned that the wind was 30kts gusting 35kts. I took the tiller, let Taleisin drop off and we started to sail again.&lt;/p&gt;
+
+&lt;p&gt;From here on out the sailing was actually pretty easy going. While about 30 minutes away from the marina I called the marina up asking the push boat to assist us getting into our marina berth. I was advised to radio once we get in and they will come and tie up next to us. When we got to the marina entrance we rounded up into the wind, I dropped the head sail, tucked another reef into the main. This was when I had the most expensive accident for the day, the jib sheet knocked my sun glasses off my head and I watched them sink to the bottom of the harbour - I had a fleeting thought about jumping in after them, but then realised that it was probably a very bad idea. I yelled some expletives (see I’m a real sailor now) and sailed into the marina.&lt;/p&gt;
+
+&lt;p&gt;Once we entered the marina I got onto the radio and the marina boat met us about half way down the channel. They tied up next to us and we dropped the main sail. I made the mistake of thinking that the push boat crew would know what they are dealing with. Things got really exciting as they didn’t realise just how heavy Taleisin is. We had a few near misses with other boats, but eventually we got Taleisin all tied up. We sat down for a couple of minutes to regain composure.&lt;/p&gt;
+
+&lt;p&gt;We went down below, I grabbed my phone and gave Lin a call “Your baby is all tied up in Westhaven, all safe and sound”. I recanted some of the adventures and I could sense that she was relieved that we made it without anything major go wrong.&lt;/p&gt;
+
+&lt;p&gt;We learnt more during that one trip than we did during a whole week’s worth of sailing lessons. We had to respond quickly, we had to think on our feet (something I’m fortunately used to due to my day job). More importantly we learnt that if things go wrong get yourself into a position where you can slow down, think, regroup and solve the problem.&lt;/p&gt;
+
+&lt;p&gt;It would be remiss of me if I didn’t point out that this story mostly reflects the abilities of Taleisin and not that of our own. I’m convinced that if it was a lesser boat, things would not have been so smooth. We are indeed very proud care takers of this well found vessel.&lt;/p&gt;
+
+&lt;p&gt;Lin Pardey wrote her side of the story &lt;a href=&quot;http://www.landlpardey.com/june-2015-newsletter.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;/sailing-taleisin-for-the-first-time/&quot;&gt;Sailing Taleisin for the First Time&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;The new adventures of Taleisin&lt;/a&gt; on October 22, 2015.&lt;/p&gt;
+  </content>
+</entry>
+
+</feed>
