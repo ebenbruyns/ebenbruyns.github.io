@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/moving-day/</loc>
+    <lastmod>2015-10-29T20:56:22+13:00</lastmod>
+  </url>
+  <url>
     <loc>/ghetto-depth-sounder/</loc>
     <lastmod>2015-10-24T21:52:43+13:00</lastmod>
   </url>
