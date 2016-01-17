@@ -6,6 +6,8 @@ categories: {{ dir }}
 excerpt:
 tags: []
 image:
-  feature:
+feature: hatch.jpg
 comments: true
 ---
+
+
