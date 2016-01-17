@@ -4,8 +4,8 @@ title: Mooring Under Sail
 modified:
 categories: 
 tags: []
-image:
-feature: hatch.jpg
+image: 
+  feature: hatch.jpg
 comments: true
 date: 2016-01-06T16:40:39+13:00
 ---
