@@ -3,10 +3,9 @@ layout: {{ layout }}
 title: {{ title }}
 modified:
 categories: {{ dir }}
-excerpt:
 tags: []
-image:
-feature: hatch.jpg
+image: 
+  feature: hatch.jpg
 comments: true
 ---
 
