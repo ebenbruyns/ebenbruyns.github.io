@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/training-wheels/</loc>
+    <lastmod>2016-07-31T10:59:23+12:00</lastmod>
+  </url>
+  <url>
     <loc>/dont-pick-at-it-youll-only-make-it-worse/</loc>
     <lastmod>2016-07-11T14:00:27+12:00</lastmod>
   </url>
