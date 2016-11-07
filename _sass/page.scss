@@ -234,6 +234,7 @@ $button-size: 1.5rem;
 		@include prefix(12,1);
 		@include suffix(12,1);
 		margin-bottom: 2em;
+		text-align: justify;
 		@media #{$small} {
 			@include grid(12,6);
 			@include prefix(12,0);
@@ -280,6 +281,7 @@ $button-size: 1.5rem;
 		}
 		p+p {
 			text-indent: 0;
+			text-align: justify;
 		}
 	}
 }
