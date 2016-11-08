@@ -8,7 +8,10 @@ image:
 feature: hatch.jpg
 ---
 
-This might seem like a strange post. In fact it is. I was contacted by John, who needed to know the dimensions of a particular spring in Taleisin's Windlass. He's got the same Windlass and the spring is in pieces. I figured that I'd post this as it just might come in handy for someone else in the future.
+This might seem like a strange post. In fact it is. I was contacted by John, who
+needed to  know the dimensions  of a  particular spring in  Taleisin's Windlass.
+He's got the same Windlass and the spring  is in pieces. I figured that I'd post
+this as it just might come in handy for someone else in the future.
 
 First up, here's the plastic pieces.
 
@@ -34,7 +37,8 @@ Free length: 39.9mm
 
 I counted 57 coils, also 39.9 / 0.7 = 57
 
-I also measured the ends: 26.4mm (but this might be a little bit off as I didn't remove the screw).
+I also measured the ends: 26.4mm (but this might be a little bit off as I didn't
+remove the screw).
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/23864397880/in/dateposted-public/" title="IMG_1479"><img src="https://farm2.staticflickr.com/1559/23864397880_8914e58bef_c.jpg" width="800" height="600" alt="IMG_1479"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -42,4 +46,5 @@ Here's a calculator that might be of use: [Calculator - external link](http://ww
 
 Estimate of length inside "hooks" 92.360 mm.
 
-If you need more accuracy, let me know, and I'll take screws out and measure it correctly.
+If you need more accuracy, let me know,  and I'll take screws out and measure it
+correctly.

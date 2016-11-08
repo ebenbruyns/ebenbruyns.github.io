@@ -6,7 +6,7 @@ categories:
 tags: []
 image: 
   feature: hatch.jpg
-published: true
+published: false
 comments: true
 date: 2016-10-31T16:08:31+13:00
 ---
@@ -19,6 +19,10 @@ along to the wooden boat festival. This presented numerous challenges concerning
 work for both Annie and myself. When I  got home that evening I told Annie about
 this random spur of the moment idea and we decided that life is too short, screw
 it - lets do it!
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30222678904/in/dateposted-public/" title="DSC_6140"><img src="https://c1.staticflickr.com/6/5692/30222678904_d7ccb6bd84_c.jpg" width="800" height="531" alt="DSC_6140"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30738394322/in/dateposted-public/" title="DSC_6117"><img src="https://c3.staticflickr.com/6/5464/30738394322_9250be565e_c.jpg" width="800" height="531" alt="DSC_6117"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I distinctly remember Annie asking, "What will I be doing for three whole days"?
 
@@ -64,10 +68,14 @@ board vessels,  with proud owners showing  off their baby. We  could spend hours
 talking to one owner  and looking at just one boat. Unfortunately  we only had 3
 days to see as many of the 300 odd boats as we could.
 
-## Talk about the NZ boat
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30818279046/in/dateposted-public/" title="DSC_6147"><img src="https://c7.staticflickr.com/6/5760/30818279046_c48db1aa02_c.jpg" width="800" height="531" alt="DSC_6147"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+With so  many boats around,  and so many  Kiwi's, there was  bound to be  a Kiwi
+boat. Heather  is a 37 footer  built in Auckland  in 1937. She completed  a solo
+circumnavigation in  the mid  60's and  sailed to  Hawaii in  the 70's,  now she
+resides in Port Townsend. It was great to see a little bit of home.
 
-## end nz boat
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30222706544/in/photolist-N3FgHj-N3Fgi1-N3FfpC-N3FfSw-N3Fe8E-N3FdvC-NQfCUQ-NQfAT5-NQfAnL-NQfzPS-N3o7hP" title="DSC_6165"><img src="https://c1.staticflickr.com/6/5598/30222706544_dd4865ba9f_c.jpg" width="800" height="531" alt="DSC_6165"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Given  the amount  of boats  it became  quite  clear that  3 days  would not  be
 enough, to  add to  the challenge  there was  multiple seminars  being presented
@@ -91,10 +99,14 @@ wonderful  boats out  on the  water under  full sail!  This took  up the  entire
 afternoon, while it cost us valuable time we could have used looking at boats at
 the docks. This experience was well worth the cost!
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30553738340/in/dateposted-public/" title="DSC_6078"><img src="https://c5.staticflickr.com/6/5643/30553738340_42a4946780_c.jpg" width="800" height="263" alt="DSC_6078"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 If that was not enough, the town  is littered with antique shops and second hand
 bookshops. This  is another favourite of  ours, we only managed  2 bookshops and
 one antique shop, it was huge, the biggest antique shop we've ever been in. This
 alone made us wish we had 3 weeks to spend in this wonderful town.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30553896060/in/album-72157674832493471/" title="DSC_6236"><img src="https://c5.staticflickr.com/6/5694/30553896060_5025e1b862_c.jpg" width="800" height="531" alt="DSC_6236"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 To top the experience  off there was all kinds of toys and  eye candy for boats.
 Almost anything  imaginable for wooden boats.  The foundry had a  display of the
@@ -108,6 +120,8 @@ marina and sail  around the harbour up  and down so that everybody  can see them
 from shore. I have never in my life  seen so many beautiful wooden boats sail at
 the same  time. There  were classics as  far as  the eye could  see. To  quote a
 friend, "You can't beat the classics!"
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30219451333/in/dateposted-public/" title="DSC_6247"><img src="https://c6.staticflickr.com/6/5797/30219451333_f2200f7499_c.jpg" width="800" height="531" alt="DSC_6247"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 I mentioned earlier that there's only 2  buses in and out of Port Townsend. This
 left us  with a  bit of  a dilemma.  Since I  didn't do  my homework  and booked
