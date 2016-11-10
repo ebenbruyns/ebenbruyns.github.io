@@ -143,3 +143,6 @@ Suffice to  say we made the  journey on Monday  morning and caught our  plane to
 Boston without any drama. A special  thanks to barefoot Bob, Brion and Christian
 for making our  stay in Port Townsend very special  and something we'll remember
 for the rest of our lives.
+
+If you ever  find yourself in Port  Townsend, find barefoot Bob!  Buy him lunch,
+dinner or a beer. This will give you an excuse to meet him, he is awesome!
