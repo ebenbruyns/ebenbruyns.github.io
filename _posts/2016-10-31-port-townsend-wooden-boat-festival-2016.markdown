@@ -146,3 +146,5 @@ for the rest of our lives.
 
 If you ever  find yourself in Port  Townsend, find barefoot Bob!  Buy him lunch,
 dinner or a beer. This will give you an excuse to meet him, he is awesome!
+
+PS. If you're looking for more pictures check out my collection over [here](https://www.flickr.com/photos/sdki/albums/72157674832493471)
