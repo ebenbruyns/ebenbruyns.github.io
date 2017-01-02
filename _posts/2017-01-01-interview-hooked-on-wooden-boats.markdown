@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Interview - Hooked on Booden Boats
+title: Interview - Hooked on Wooden Boats
 modified:
 categories: 
 tags: []
