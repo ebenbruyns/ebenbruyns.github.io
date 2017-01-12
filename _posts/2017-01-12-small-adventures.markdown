@@ -38,9 +38,9 @@ since running  aground means that you  can hop out  (she only draws 3  feet) and
 push  her off.  Fending is  also a  lot easier  as she  weighs a  lot less  than
 Taleisin.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/32112616382/" title="Taken by lin Pardey all copyright belongs to her. Published with permission."><img src="https://c1.staticflickr.com/1/358/32112616382_a0f7da1c5d_c.jpg" width="800" height="600" alt="Taken by lin Pardey all copyright belongs to her. Published with permission."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/32112616382/in/photostream/" title="Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission."><img src="https://c1.staticflickr.com/1/358/32112616382_a0f7da1c5d_c.jpg" width="800" height="600" alt="Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/32223485066/in/photostream/" title="Taken by lin Pardey all copyright belongs to her. Published with permission."><img src="https://c1.staticflickr.com/1/445/32223485066_fd75224551_c.jpg" width="800" height="600" alt="Taken by lin Pardey all copyright belongs to her. Published with permission."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/32223485066/in/photostream/" title="Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission."><img src="https://c1.staticflickr.com/1/445/32223485066_fd75224551_c.jpg" width="800" height="600" alt="Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 It was  a great learning experience  and it really  showed us how the  winds can
 bend  around headlands.  Experimenting is  easy since  the boat  responds really
