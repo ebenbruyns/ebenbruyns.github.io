@@ -12,7 +12,7 @@ date: 2017-02-16T10:16:07+13:00
 ---
 
 It's been a while since our last water based adventure. The reason we've been on
-land for some time it so that we can avoid being on land for some time.
+land for some time is so that we can avoid being on land for some time.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/32547798620/in/dateposted-public/" title="Life aboard taleisin"><img src="https://c1.staticflickr.com/4/3725/32547798620_bb3a55fdc7_c.jpg" width="800" height="600" alt="Life aboard taleisin"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
