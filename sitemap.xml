@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://taleisin.com/life-aboard-taleisin/</loc>
+    <lastmod>2017-02-16T10:16:07+13:00</lastmod>
+  </url>
+  <url>
     <loc>http://taleisin.com/what-is-it-with-power-boats/</loc>
     <lastmod>2017-01-18T19:31:07+13:00</lastmod>
   </url>
