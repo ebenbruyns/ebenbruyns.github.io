@@ -4,13 +4,58 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://taleisin.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://taleisin.com" />
-<updated>2017-05-07T06:48:29+12:00</updated>
+<updated>2017-05-07T07:02:55+12:00</updated>
 <id>http://taleisin.com/</id>
 <author>
   <name>Eben and Annie</name>
   <uri>http://taleisin.com/</uri>
   
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Email Issues]]></title>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/email-issues/" />
+  <id>http://taleisin.com/email-issues</id>
+  <published>2017-05-07T06:49:50+12:00</published>
+  <updated>2017-05-07T06:49:50+12:00</updated>
+  <author>
+    <name>Eben and Annie</name>
+    <uri>http://taleisin.com</uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;It would appear that I messed up the email system with the last post. Hopefully
+this issue will not re-occur in the future since I’ve added an automated check
+before updating the blog.&lt;/p&gt;
+
+&lt;p&gt;If you’re not technical then you can stop reading now and click through at the
+bottom of the email to previous post or click
+&lt;a href=&quot;http://www.taleisin.com/river-adventures/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you’re technical and care about what went wrong…&lt;/p&gt;
+
+&lt;p&gt;Mailchimp cannot deal with relative urls in the rss feed. This means that
+I have to tell Jekyll to use absolute urls. If I’m using absolute urls
+I cannot test the blog on my local machine since the links all point to the live
+site. I thought I had solved the issue by changing the config file with a script
+before serving locally and deploying remotely. Clearly something went wrong in
+the script (which works when I test it, you know the old “it works on my machine
+excuse”). I’ve now added a condition to the deploy script to only deploy if the
+absolute urls are present in the rss feed.&lt;/p&gt;
+
+&lt;p&gt;In theory this should prevent broken links in emails going forward, but if 20+
+years in IT has taught me anything… This too will be proven wrong in the
+future.&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/email-issues/&quot;&gt;Continue reading Email Issues here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 07, 2017.&lt;/p&gt;
+
+  </content>
+</entry>
 
 
   
@@ -899,59 +944,6 @@ his blog.&lt;/p&gt;
 
 
     &lt;p&gt;&lt;a href=&quot;http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder/&quot;&gt;Continue reading Guest Blog  Post at  the Unlikely  Boat Builder here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
-
-  </content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Defeated in the Marina]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/defeated-in-the-marina/" />
-  <id>http://taleisin.com/defeated-in-the-marina</id>
-  <published>2016-01-22T20:56:04+13:00</published>
-  <updated>2016-01-22T20:56:04+13:00</updated>
-  <author>
-    <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
-    
-  </author>
-  <content type="html">
-    &lt;p&gt;I’ve been  contemplating posting this story  for some time, clearly  this is not
-one of  my finest  moments. I’ve  decided to  share it  because other’s  find it
-pentertaining, and it might be a cautionary tale to would be engineless sailors.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;As is normal for me, when I get a new  toy I want to use it. At this point we’ve
-owned Taleisin  for a few weeks.  I’ve been out on  her once with Chad  from the
-CYA. He  showed me how to  barge using Cheeky and  the 2.5hp motor, and  he also
-taught  me how  to scull.  Chad  is super  experienced,  I didn’t  do the  whole
-procedure myself and I don’t have any “what if” plans.&lt;/p&gt;
-
-&lt;p&gt;I came up with a plan, if 2.5hp can do it, I can get an inflatable with a bigger
-engine and that should  make things much easier. So I go shopping,  I get a 2.6m
-Zodiac and an  8hp outboard. Armed with a  new sure fire way to  get Taleisin in
-and out of  the marina I study the  weather forecasts and pick a  day that seems
-like it would be perfect.&lt;/p&gt;
-
-&lt;p&gt;We get  up early on Saturday  morning, I’m very excited  - like a little  kid on
-christmas morning. When  I’m excited about things,  I don’t hide it  very well -
-everybody knows. Annie mentioned to me in the  car on the way to the marina that
-she can tell that it’s one of those excited days for me.&lt;/p&gt;
-
-&lt;p&gt;Once we’re onboard at the marina I  start putting the inflatable together (I now
-seem to  call her Ducky).  I attached  some lines to  Ducky, dropped her  in the
-water and started to  tie her to the quarter. Keep in mind  this was pretty much
-winter time  in New  Zealand so  I was  wearing foul  weather gear  and thermals
-underneath them. It’s taken quite a bit longer to set everything up, which I now
-know is normal for everything boat related. Eventually we get Taleisin ready for
-sailing and start to go over “the plan”.&lt;/p&gt;
-
-&lt;p&gt;So what’s the plan, Annie asks? We drop the mooring lines, I put the outboard in
-reverse. We back out slowly, use Taleisin’s  rudder to steer and t...
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/defeated-in-the-marina/&quot;&gt;Continue reading Defeated in the Marina here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 22, 2016.&lt;/p&gt;
 
   </content>
 </entry>

@@ -5,9 +5,10 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Return to North Cove &#8211; Taleisin - Adventure Machine!</title>
-<meta name="description" content="Our original  plan was  to sail to  North Cove yesterday.  But the  winds didn’t
-co-operate, instead we motored all day and tucked in for the night.
+<title>Email Issues &#8211; Taleisin - Adventure Machine!</title>
+<meta name="description" content="It would appear that I messed up the email system with the last post. Hopefully
+this issue will not re-occur in the future since I’ve added an automated check
+before updating the blog.
 
 ">
 <meta name="keywords" content="">
@@ -15,9 +16,10 @@ co-operate, instead we motored all day and tucked in for the night.
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Return to North Cove">
-<meta name="twitter:description" content="Our original  plan was  to sail to  North Cove yesterday.  But the  winds didn’t
-co-operate, instead we motored all day and tucked in for the night.
+<meta name="twitter:title" content="Email Issues">
+<meta name="twitter:description" content="It would appear that I messed up the email system with the last post. Hopefully
+this issue will not re-occur in the future since I’ve added an automated check
+before updating the blog.
 
 ">
 
@@ -29,12 +31,13 @@ co-operate, instead we motored all day and tucked in for the night.
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Return to North Cove">
-<meta property="og:description" content="Our original  plan was  to sail to  North Cove yesterday.  But the  winds didn’t
-co-operate, instead we motored all day and tucked in for the night.
+<meta property="og:title" content="Email Issues">
+<meta property="og:description" content="It would appear that I messed up the email system with the last post. Hopefully
+this issue will not re-occur in the future since I’ve added an automated check
+before updating the blog.
 
 ">
-<meta property="og:url" content="http://taleisin.com/return-to-north-cove/">
+<meta property="og:url" content="http://taleisin.com/email-issues/">
 <meta property="og:site_name" content="Taleisin - Adventure Machine!">
 
 <meta property="og:image" content="http://taleisin.com/images/hatch.jpg">
@@ -45,7 +48,7 @@ co-operate, instead we motored all day and tucked in for the night.
 
 
 
-<link rel="canonical" href="http://taleisin.com/return-to-north-cove/">
+<link rel="canonical" href="http://taleisin.com/email-issues/">
 <link href="http://taleisin.com/feed.xml" type="application/atom+xml" rel="alternate" title="Taleisin - Adventure Machine! Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -132,7 +135,7 @@ co-operate, instead we motored all day and tucked in for the night.
     
       "http://taleisin.com/images/hatch.jpg"
     
-  alt="Return to North Cove feature image">
+  alt="Email Issues feature image">
   
   </div><!-- /.image-wrap -->
 
@@ -176,57 +179,35 @@ co-operate, instead we motored all day and tucked in for the night.
   <article class="post">
     <div class="headline-wrap">
       
-        <h1><a href="http://taleisin.com/return-to-north-cove/" rel="bookmark" title="Return to North Cove">Return to North Cove</a></h1>
+        <h1><a href="http://taleisin.com/email-issues/" rel="bookmark" title="Email Issues">Email Issues</a></h1>
       
-        <p class="byline">Published on <time datetime="2016-12-27T19:27:34+13:00">December 27, 2016</time>.</p>
+        <p class="byline">Published on <time datetime="2017-05-07T06:49:50+12:00">May 07, 2017</time>.</p>
     </div><!--/ .headline-wrap -->
     <div class="article-wrap">
-      <p>Our original  plan was  to sail to  North Cove yesterday.  But the  winds didn’t
-co-operate, instead we motored all day and tucked in for the night.</p>
+      <p>It would appear that I messed up the email system with the last post. Hopefully
+this issue will not re-occur in the future since I’ve added an automated check
+before updating the blog.</p>
 
-<p>So, it turns out  that it was quite a bouncy anchorage,  easily corrected with a
-snubber off  the bowsprit. Whilst  this didn’t stop the  bounce it made  it more
-than habitable.</p>
+<p>If you’re not technical then you can stop reading now and click through at the
+bottom of the email to previous post or click
+<a href="http://www.taleisin.com/river-adventures/">here</a>.</p>
 
-<p>This morning I said to Annie, “I want to sail off the anchor!”. We had the motor
-in neutral, just in  case. I  prepared Taleisin for  sailing while  Annie cooked
-breakfast. After we finished eating and  putting Taleisin in order down below we
-winched in the anchor until we were just  about ready to lift it. We hoisted the
-stays’l. Annie grabbed the tiller and when  the anchor was up she sheeted in the
-stays’l. We were off without a hitch! I hoisted the main and the jib while Annie
-slowly sailed us out of the anchorage. It was a nice start to the day.</p>
+<hr />
 
-<p>The winds  were much better  today. We managed  to sail reasonably  smoothly all
-day. Slight bit  of chop out in  the open water but nothing  like we experienced
-when we sailed Taleisin to Westhaven the very firs time.</p>
+<p>If you’re technical and care about what went wrong…</p>
 
-<p>As we  approached North Cove a  little speed boat  zoomed right in front  of our
-bow, I was  wondering why they were zooming  by so close and then  I realised it
-was Lin in  Jay Dee. Lin took some  photos of us as we sailed  Taleisin into the
-cove.</p>
+<p>Mailchimp cannot deal with relative urls in the rss feed. This means that
+I have to tell Jekyll to use absolute urls. If I’m using absolute urls
+I cannot test the blog on my local machine since the links all point to the live
+site. I thought I had solved the issue by changing the config file with a script
+before serving locally and deploying remotely. Clearly something went wrong in
+the script (which works when I test it, you know the old “it works on my machine
+excuse”). I’ve now added a condition to the deploy script to only deploy if the
+absolute urls are present in the rss feed.</p>
 
-<p>We motored around looking  for a spot to anchor. I picked a  spot that I thought
-look good. We dropped the anchor. Then Annie said, I think we’re dragging! Ok no
-problem, we’ll try again. Winch the anchor in and motor around for a second try.</p>
-
-<p>We try it  again and same problem again!  Ok so this time we  weighed the anchor
-and went further out than I would have  liked. We found a spot of clear water so
-we can have lots of room. I drop the anchor. This time I’m not messing around we
-put 35 fathoms of chain out! Now we’re holding.</p>
-
-<p>Lin did  come by and offer  us a mooring  that’s available. I suggested  that we
-move but  Annie thought that 3  attempts at anchoring was  enough excitement for
-one day. Fair enough I figured! We can try to pick up the mooring in the morning
-when we have time for more adventure.</p>
-
-<p>Annie cooked us a lovely dinner and we’re just settling in for the night.</p>
-
-<p>Here’s some photos of North Cove, Taleisin hasn’t been home in some time…</p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/sdki/31757409172/" title="North cove"><img src="https://c5.staticflickr.com/1/467/31757409172_988e52891f_c.jpg" width="800" height="600" alt="North cove" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
-<p><a data-flickr-embed="true" href="https://www.flickr.com/photos/sdki/31788415331/in/photostream/" title="North cove"><img src="https://c4.staticflickr.com/1/407/31788415331_aa2cceffa6_c.jpg" width="800" height="600" alt="North cove" /></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
-
+<p>In theory this should prevent broken links in emails going forward, but if 20+
+years in IT has taught me anything… This too will be proven wrong in the
+future.</p>
 
       <hr />
       <footer role="contentinfo">
@@ -234,17 +215,17 @@ when we have time for more adventure.</p>
   <h4>Share on</h4>
   <ul>
     <li>
-      <a href="https://twitter.com/intent/tweet?text=http://taleisin.com/return-to-north-cove/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://twitter.com/intent/tweet?text=http://taleisin.com/email-issues/" class="twitter" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
     </li>
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u=http://taleisin.com/return-to-north-cove/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
+      <a href="https://www.facebook.com/sharer/sharer.php?u=http://taleisin.com/email-issues/" class="facebook" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
     </li>
     <li>
-      <a href="https://plus.google.com/share?url=http://taleisin.com/return-to-north-cove/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
+      <a href="https://plus.google.com/share?url=http://taleisin.com/email-issues/" class="google-plus" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
     </li>
   </ul>
 </div><!-- /.social-share -->
-        <p class="byline"><strong>Return to North Cove</strong> was published on <time datetime="2016-12-27T19:27:34+13:00">December 27, 2016</time>.</p>
+        <p class="byline"><strong>Email Issues</strong> was published on <time datetime="2017-05-07T06:49:50+12:00">May 07, 2017</time>.</p>
       </footer>
     </div><!-- /.article-wrap -->
    Some users have asked to be emailed when we post a new adventure. We have a simple solution for this, for those who wish to receive email updates you can subscribe to our mailing list below.
@@ -283,11 +264,11 @@ when we have time for more adventure.</p>
   <h4>You might also enjoy <small class="pull-right">(<a href="http://taleisin.com/posts/">View all posts</a>)</small></h4>
     <ul>
     
-      <li><a href="http://taleisin.com/email-issues/" title="Email Issues">Email Issues</a></li>
-    
       <li><a href="http://taleisin.com/river-adventures/" title="River Adventures">River Adventures</a></li>
     
       <li><a href="http://taleisin.com/life-aboard-taleisin/" title="Life Aboard Taleisin">Life Aboard Taleisin</a></li>
+    
+      <li><a href="http://taleisin.com/what-is-it-with-power-boats/" title="What Is It With Power Boats?">What Is It With Power Boats?</a></li>
     
     </ul>
     <hr />
