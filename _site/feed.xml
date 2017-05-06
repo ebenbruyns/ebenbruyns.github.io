@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Taleisin - Adventure Machine!</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://taleisin.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://taleisin.com" />
-<updated>2017-02-17T08:45:13+13:00</updated>
-<id>http://taleisin.com/</id>
+<link rel="self" type="application/atom+xml" href="/feed.xml" />
+<link rel="alternate" type="text/html" href="" />
+<updated>2017-05-06T18:36:59+12:00</updated>
+<id>/</id>
 <author>
   <name>Eben and Annie</name>
-  <uri>http://taleisin.com/</uri>
+  <uri>/</uri>
   
 </author>
 
@@ -16,14 +16,59 @@
   
 
 <entry>
+  <title type="html"><![CDATA[River Adventures]]></title>
+  <link rel="alternate" type="text/html" href="/river-adventures/" />
+  <id>/river-adventures</id>
+  <published>2017-05-06T16:56:17+12:00</published>
+  <updated>2017-05-06T16:56:17+12:00</updated>
+  <author>
+    <name>Eben and Annie</name>
+    <uri></uri>
+    
+  </author>
+  <content type="html">
+    &lt;p&gt;A lot has happened since I’ve last written anything. This doesn’t mean that it’s
+been boring…&lt;/p&gt;
+
+&lt;p&gt;On the contrary, I’m not sure what  to write about since there’s so many awesome
+adventures that we’ve had. The only logical  thing to do would be to write about
+them in  the order they happened.  Given that watches and  calendars get ignored
+aboard, we’ll just say that the following happened some time in February.&lt;/p&gt;
+
+&lt;p&gt;We packed up the  possessions we wanted to keep and stored  them safely. We sold
+everything worth selling and gave away  anything that we couldn’t sell. The rest
+was sent off to the land fill. With the commitment made to live aboard full time
+we got stuck  in the marina with some  bad weather. We had a date  to keep since
+the CANANZ group were having a dinner  in Warkwarth and they were all planning a
+cruise up the Mahurangi river.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32739029450/in/dateposted-public/&quot; title=&quot;Annie Hill&amp;#x27;s fantail. We met Bryan and Linda (the current owners) this weekend we enjoyed a nice visit and beer with the aboard taleisin this afternoon.&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/3/2883/32739029450_1bfefb79c9_c.jpg&quot; width=&quot;534&quot; height=&quot;800&quot; alt=&quot;Annie Hill&amp;#x27;s fantail. We met Bryan and Linda (the current owners) this weekend we enjoyed a nice visit and beer with the aboard taleisin this afternoon.&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;We provisioned  Taleisin and played the  waiting game with the  weather and wind
+gods. When ever  you’re supposed to be  somewhere at a certain time  and date it
+seems impossible to get  good weather for it. Looking at the  light winds in the
+forecast, we decided to leave a day earlier than required and hopefully make the
+trip over two days instead of one.&lt;/p&gt;
+
+&lt;p&gt;We finally had a bit of wind so we cast the dock lines off and set sail! It took
+us all  afternoon to make it  as far...
+    &lt;p&gt;&lt;a href=&quot;/river-adventures/&quot;&gt;Continue reading River Adventures here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 06, 2017.&lt;/p&gt;
+
+  </content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Life Aboard Taleisin]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/life-aboard-taleisin/" />
-  <id>http://taleisin.com/life-aboard-taleisin</id>
+  <link rel="alternate" type="text/html" href="/life-aboard-taleisin/" />
+  <id>/life-aboard-taleisin</id>
   <published>2017-02-16T10:16:07+13:00</published>
   <updated>2017-02-16T10:16:07+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -53,92 +98,9 @@ have had to adjust the way we do things, but it’s not been a huge hassle for u
 We’ve been living  at the dock without electricity, other  than that provided by
 our 100  watt solar panel.  Honestly it’s not a  hardship, we love  the kerosene
 lamps and  cooking with LPG (aka  propane) is a joy.  The ice box does  it’s job
-well enough that we don’t miss the fridge. You can tell that Taleisin’s interior
-was designed to be  very liveable, I cannot compare it to  other boats but she’s
-perfect.&lt;/p&gt;
+well enough that we don’t miss the fridge. You can tell ...
+    &lt;p&gt;&lt;a href=&quot;/life-aboard-taleisin/&quot;&gt;Continue reading Life Aboard Taleisin here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on February 16, 2017.&lt;/p&gt;
 
-&lt;p&gt;Keeping a small space tidy is a bit  harder since it doesn’t take much for it to
-get completely  out of hand.  Combine this with the  fact that we’re  still busy
-loading stuff onto Taleisin and the problem compounds very quickly. We have just
-about got  everything onboard now  and things are  starting to look  quite good.
-We’re still  a few  days away from  casting off as  we have  a few boat  jobs to
-complete before we can go. Then there’s the all important provisioning.&lt;/p&gt;
-
-&lt;p&gt;The transition  has been significantly  eased by  spending nights aboard  in the
-marina and a 3 week cruise, without this it would have been much harder. We gave
-up broadcast  TV almost  2 years  ago, opting  for on  demand streaming  via the
-internet.  This actually  lead to  the  act of  TV watching  becoming an  active
-engagement rather than it running  continuously and nobody paying attention. The
-result was  that we ended up  watching a lot less  TV than we did  before. TV is
-actually one of the things we do not miss.&lt;/p&gt;
-
-&lt;p&gt;You might  be wondering, so  what do we miss?  Interestingly not much.  While we
-have to walk 500 meters to the bathroom block for a shower and to use the toilet
-it’s not  a huge burden.  While we could  use the bucket  and wag bag  system on
-aboard we feel it’s just a needless waste.&lt;/p&gt;
-
-&lt;p&gt;It’s raining  today, the first  day it’s really  raining while living  on board.
-This will be a real test to see just how inconvenient it would be to head to the
-bathroom block.  We had  to head  out in  the rain  a few  times today  and it’s
-starting to wear on Annie a little,  but as with everything I suspect we’ll just
-get used to it and life will go on as it always has.&lt;/p&gt;
-
-&lt;p&gt;Another  point  of   interest  is  the  psychology  involved   in  pairing  down
-possessions, it’s hard!  Do not let anybody tell you  anything different. You’re
-forced to confront  your decisions about buying something that  turned out to be
-completely useless, cost a lot of money and has absolutely no resale value. This
-implies  that  there  would be  a  huge  loss  involved  and that  the  cost  or
-reacquisition would be huge as well, but the initial point was that the item was
-useless.  I do  not know  why,  but I’ve  had a  lot  of these  items that  I’ve
-justified keeping for many  years. I can now say that after letting  go of a few
-of these items it becomes easier to let go of the rest. At some point it becomes
-harder to  hold onto  things than to  let things  go. Annie has  had to  put the
-breaks on me as I’d just continue till there’s nothing left.&lt;/p&gt;
-
-&lt;p&gt;Being at the point  we’re currently at, which is on the brink  of cruising I can
-understand why most people never even get  this far. It’s hard! Yes it’s easy to
-talk about cruising  and dream about cruising,  but it’s not easy to  get to the
-actual cruising. While  most people were supportive in theory  and thought it to
-be  a great  idea.  In practice  we  found that  nobody really  wants  us to  go
-cruising. Both  Annie and  myself found  it incredibly hard  to break  ties with
-work. While Annie had  the simple case of just resigning and it  was over for me
-it’s not that simple. As a person heavily involved in tech start-ups and being a
-key person from everybody’s perspective in  the ventures, it’s hard. I’ve had to
-sail back in  unfavourable conditions for meetings to secure  future business at
-critical junctures. Now that  I’ve actually put a stake in  the ground and said,
-No more!  I could  sense the  disappointment in my  business collogues.  While I
-personally do  not believe they will  struggle without me as  I’ve trained those
-around me to deal with everything I’ve  been dealing with. I can understand that
-they might feel like they are losing a lot.&lt;/p&gt;
-
-&lt;p&gt;Family and  friends has been a  lot more supportive than  anticipated. I’ve read
-many books stating that family and friends  are not supportive as they will miss
-you too  much. We  have, however,  not made  the mistake  of letting  friends or
-family believe  that this is  up for negotiation. This  is something both  of us
-desperately need. It’s been a lot easier from the friends and family perspective
-than expected.  Those friends and family  reading this, thank you  very much for
-being supportive and understanding regardless of how you might really feel about
-it.  It  has  been  hard  enough  to reach  this  point  without  having  active
-discouragement from you guys! We really appreciate it.&lt;/p&gt;
-
-&lt;p&gt;Naturally those of you  reading this will want to know what  our next plans are.
-Well we have  a few months off, we  might head North, or South  depending on the
-wind  direction.  We plan  on  taking  things as  they  come,  we have  no  huge
-aspirations to circumnavigate or  to round Cape Horn. Right now  we just want to
-learn to sail  Taleisin properly and sail  her well. We need some  time out from
-the real world. The plan  is to sail till the end of the  season or until we get
-sick of  it, which ever  comes first. If  we manage to  reach that point  we can
-decide what’s next at that time!&lt;/p&gt;
-
-&lt;p&gt;If you’re  considering cruising and  wondering at this  point if it’s  worth the
-trouble. I  can’t speak from  experience, but I  can assure you  that absolutely
-every cruiser I’ve spoken to has told me that it was the best decision they have
-ever made. Surely if  it’s this hard to get to this point,  it’s got to be worth
-the effort.  The other  thing to  keep in  mind is that  if it  was easy  to do,
-everybody would  be doing  it. If  everybody was  doing it  we’d be  looking for
-something else to do as that would then be the real world…&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/life-aboard-taleisin/&quot;&gt;Life Aboard Taleisin&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on February 16, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -147,13 +109,13 @@ something else to do as that would then be the real world…&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[What Is It With Power Boats?]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/what-is-it-with-power-boats/" />
-  <id>http://taleisin.com/what-is-it-with-power-boats</id>
+  <link rel="alternate" type="text/html" href="/what-is-it-with-power-boats/" />
+  <id>/what-is-it-with-power-boats</id>
   <published>2017-01-18T19:31:07+13:00</published>
   <updated>2017-01-18T19:31:07+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -191,130 +153,9 @@ were motoring out, it was 7am.&lt;/p&gt;
 
 &lt;p&gt;Once we got out of the river I said  to Annie, lets get some sail up! We hoisted
 the sails and the wind filled them. We  closed the throttle on the motor and put
-it in neutral. That’s when the wind decided to die.&lt;/p&gt;
+it in neutral. That’s when the wind d...
+    &lt;p&gt;&lt;a href=&quot;/what-is-it-with-power-boats/&quot;&gt;Continue reading What Is It With Power Boats? here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
 
-&lt;p&gt;Some numbers…  We had less  than a full  tank of petrol.  When we left  on our
-adventure we motored  for 16nm. and used  most of our petrol. With  no wind that
-leaves us 12nm. short of the marina. If you’re running the numbers, this doesn’t
-look favourable.&lt;/p&gt;
-
-&lt;p&gt;Plan A is to sail. Plan B is to motor to a closer anchorage and hopefully we can
-then sail back to the marina before the heavy winds come up the next day. Plan A
-does  seem to  be viable  at this  stage. So  we tried  an experiment,  open the
-throttle just  a little get  Taleisin moving slowly. In  theory we should  get a
-very long running time  on the petrol we have if we’re not  burning that much of
-it along the way.&lt;/p&gt;
-
-&lt;p&gt;We managed to  get Taleisin moving at  2 knots with the  throttle slightly above
-idle. We kept the sails up so that we could catch any puff of wind and hopefully
-get a bit of a lift from that to move us along a little faster.&lt;/p&gt;
-
-&lt;p&gt;This worked well  for a few hours, we’d  be moving along at 2-3  knots, a little
-puff would  come up and push  us along at 4  knots. We managed this  on the same
-tack all  the way through the  Whangaparoa passage. When we  were almost through
-the channel the wind  seemed to pick up. We turned the engine  off and sailed at
-4.5 knots! Awesome,  it looks like we might  make it home at this  rate, sure it
-would be slow and take most of the day. We had no other plans so we didn’t care.&lt;/p&gt;
-
-&lt;p&gt;Well, it  was nice while  it lasted. Five minutes  later the wind  dropped right
-off. So we sat  bobbing around. It was a Saturday and  this meant that everybody
-with a power boat  is out on the water, since it’s  perfect conditions for their
-preferred type of boating. With power  boats zooming past us their wakes started
-to make  it uncomfortable  onboard. We made  the call to  keep motoring  at slow
-speed and hopefully we’ll catch a bit more wind.&lt;/p&gt;
-
-&lt;p&gt;Motoring was fine for  a little while with a direct line to  our way point. Then
-the wind came  up again, but it  changed direction. We spent the  next few hours
-trying to  motor slowly with winds  coming and going and  changing direction all
-the time. We’re sailors, so we tack when we need to, no problem. We kept a close
-eye on the amount of petrol we had left,  every half an hour we’d have a look at
-petrol and  distance left. We found  some entertainment in listening  to the VHF
-radio on  the coast guard channel.  You can learn  a lot by listening  to others
-radio in their situation.  Once in a while they would  broadcast that Ovation of
-the seas (a very large cruise ship) was anchored at some location that we didn’t
-quite know.  The broadcast stated to  keep 60 meters  away from the ship  at all
-times and to keep wakes at a  minimum. Slowly the situation started to turn more
-favourable. So we decided to just go for it, and head for the marina!&lt;/p&gt;
-
-&lt;p&gt;When we  finally made it back  to the harbour we’ve  already had a long  day and
-then we finally  got some wind. We had  enough wind so we could  turn the engine
-off and reach all the way to the marina. We were also moving a lot faster.&lt;/p&gt;
-
-&lt;p&gt;This was all great  until we got to the Port of Auckland  docks. All of a sudden
-the wind dropped  right down. This was likely  due to the fact that  there was a
-huge cruise ship right in the middle of the harbour.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32260586401/&quot; title=&quot;Power boats&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/581/32260586401_35f461e942_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Power boats&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Usually it takes  about 30 minutes to get  back to the marina from  here. Let me
-describe the scenario. It’s Saturday afternoon, it’s perfect power boat weather.
-All of them are out on the water.  The location of the harbour we’re in has been
-described as a washing machine to me  in the past. There’s power boats, ferries,
-ship’s tenders zipping back and forth. Combined with the huge ship in the middle
-of the harbour. This is chaos. We have no wind to sail with, which we need since
-the motor is no use because of the chop. Basically we’re in the most challenging
-situation we’ve been in to date. The right thing to do would have been to anchor
-somewhere  and wait  for more  favourable conditions.  Cruising with  a schedule
-doesn’t work.&lt;/p&gt;
-
-&lt;p&gt;We still have our  sails set, since we need to sail in  this spot. We still have
-the motor going since we have no wind  and we can’t be floating around this area
-as it’s  busy. Annie’s  sitting by the  outboard throttle to  close it  when the
-motor lifts out  of the water. I’m trying  to keep the boat on  course and avoid
-collision since power boat skippers for some reason like to pass really close by
-and they  seem to  like crossing  in front of  us. Given  that we’re  not really
-sailing we don’t have right of way  since we’re technically a power boat at this
-point.&lt;/p&gt;
-
-&lt;p&gt;We’re moving very slowly, we’re trying to figure out the best course to steer to
-get out  of this  mess as  quickly as possible.  Given the  huge ship  the winds
-became very  fluky. Without any warning  we’d suddenly have our  head sails back
-winded and our bow pushed over. Given the tendency of power boats to pass really
-close to  us, this became a  very challenging situation  as the wind can  put us
-into a  possible collision at any  moment. That means  we have to tack  and also
-keep the motor under  control. Since the winds are light we  had both head sails
-up, this meant we had quite a few things to deal with and quickly. As soon as we
-finished the operation the wind would shift  and we’d do it all over again. This
-process was repeated relentlessly. We were  tacking back and forth, motoring for
-a few second and sailing for a few seconds. Then another boat would come by. The
-wakes would rock  the boat back and  forth and bounce up and  down. Tack, motor,
-dodge a boat. Tack, motor, doge, repeat. It seemed like it was never ending.&lt;/p&gt;
-
-&lt;p&gt;It took us  2 hours to get through  this little section of the  harbour. We were
-absolutely exhausted by it, after we’ve already been out in the sun all day.&lt;/p&gt;
-
-&lt;p&gt;When we finally got  past the cruise ship the wind picked  up, the direction was
-stable and  we sailed right to  the marina entrance.  I dropped the jib  and the
-main. Annie steered  us into the marina  while still under stays’l.  Once we got
-into flat clam water and the motor was working properly, I dropped the stays’l.&lt;/p&gt;
-
-&lt;p&gt;At this point I took over the helm from  Annie and we slowly made our way to our
-slip. Slow and  easy. I managed to  put Taleisin into the slip  with an absolute
-perfect landing. Annie grabbed the mooring  lines and secured Taleisin. I looked
-at the clock  and it was 5pm. It  felt great to do this with  precision! I just
-wish the  usual spectators were  there to witness it.  It would seem  people are
-only ever watching when I make a mess of things.&lt;/p&gt;
-
-&lt;p&gt;It was a nice calm day. We had the most challenging day of sailing to date. This
-turned out to  be a big adventure, even  though it was only a  short distance to
-cover. We were absolutely exhausted! We both slept very well that night!&lt;/p&gt;
-
-&lt;p&gt;The moral of the story here is not  to have more petrol, but you can be forgiven
-for thinking that. The  real moral of the story here is that  you cannot allow a
-schedule to  dictate your cruising. Sure,  if we had  a boat with an  inboard we
-could have motored all the way back at  7 knots and made the journey in 4 hours.
-It would have been uneventful and no  big deal. Instead we got a huge adventure,
-we got challenged.  We managed to get  through the challenge and  it felt great.
-Because of the choices we make, it’s possible to have adventures all the time or
-none of the  time. Things that make  certain tasks easier also takes  a lot away
-from it. We could choose the easy way or we could choose adventure…&lt;/p&gt;
-
-&lt;p&gt;As a final comment,  there was only one power boat that was  truly a pain in the
-rear, the big  one disrupting the winds.  The other ones are just  part of life.
-Regardless it still contributed a lot to this adventure. For those wondering we
-still had about 3.5 litres of petrol left.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/what-is-it-with-power-boats/&quot;&gt;What Is It With Power Boats?&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -323,13 +164,13 @@ still had about 3.5 litres of petrol left.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Never Miss Another Adventure]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/never-miss-another-adventure/" />
-  <id>http://taleisin.com/never-miss-another-adventure</id>
+  <link rel="alternate" type="text/html" href="/never-miss-another-adventure/" />
+  <id>/never-miss-another-adventure</id>
   <published>2017-01-18T17:44:33+13:00</published>
   <updated>2017-01-18T17:44:33+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -346,7 +187,8 @@ something together to make it happen.&lt;/p&gt;
 your email address in the box below and subscribe to our mailing list.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/never-miss-another-adventure/&quot;&gt;Never Miss Another Adventure&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/never-miss-another-adventure/&quot;&gt;Continue reading Never Miss Another Adventure here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+
   </content>
 </entry>
 
@@ -355,13 +197,13 @@ your email address in the box below and subscribe to our mailing list.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Small Adventures]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/small-adventures/" />
-  <id>http://taleisin.com/small-adventures</id>
+  <link rel="alternate" type="text/html" href="/small-adventures/" />
+  <id>/small-adventures</id>
   <published>2017-01-12T18:37:26+13:00</published>
   <updated>2017-01-12T18:37:26+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -392,67 +234,9 @@ since running  aground means that you  can hop out  (she only draws 3  feet) and
 push  her off.  Fending is  also a  lot easier  as she  weighs a  lot less  than
 Taleisin.&lt;/p&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32112616382/in/photostream/&quot; title=&quot;Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission.&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/358/32112616382_a0f7da1c5d_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission.&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32112616382/in/photostream/&quot; title=&quot;Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission.&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/358/32112616382_a0f7da1c5d_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Taken by Li...
+    &lt;p&gt;&lt;a href=&quot;/small-adventures/&quot;&gt;Continue reading Small Adventures here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 12, 2017.&lt;/p&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32223485066/in/photostream/&quot; title=&quot;Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission.&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/445/32223485066_fd75224551_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission.&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;It was  a great learning experience  and it really  showed us how the  winds can
-bend  around headlands.  Experimenting is  easy since  the boat  responds really
-quickly.  When  the situation  changes  the  small  boat  lets you  know  almost
-instantly. All  of this  is good and  well, but  was it fun?  Heck yeah!  If you
-haven’t sailed a little  boat I highly recommend it. You’re a  lot closer to the
-water, the boat  responds very quickly and everything is  very manageable. While
-there’s winches on the boat, we didn’t have  to use them since it was so easy to
-just handle everything by  hand. I’m sure if the winds  were blowing much harder
-it may have become required, but it would have had to be blowing a LOT harder.&lt;/p&gt;
-
-&lt;p&gt;After we had our fill and the winds were picking up to a level where we would no
-longer be having fun we decided to return to the dock. Since we were approaching
-with the wind behind us we dropped the little main before we got to the dock and
-sailed under jib only.  We tried to glide into the dock  as smoothly as possible
-and let the jib  fly before we got there and hopefully the  way would just carry
-us in. It didn’t  quite work out as planned, but this was  our first attempt. We
-came in a little hot, but since the boat is so small and light I could just grab
-the dock and bring  her to a stop. This is not something  I would have been able
-to do in Taleisin.&lt;/p&gt;
-
-&lt;p&gt;We put Felicity away and closed her up and returned to Taleisin. This morning we
-decided to sail to the Mahurangi river for a slightly larger adventure. It might
-not be  the smartest direction  to sail in  as we had the  wind on the  nose the
-entire time.&lt;/p&gt;
-
-&lt;p&gt;Armed with the new knowledge about winds and headlands we were well prepared for
-sailing between  the islands to  our destination. We  could tell when  the winds
-were shifting and how they were shifting. We did a lot of tacking back and forth
-and had some  challenges along the way.  Nothing we couldn’t handle  now that we
-better understood how the winds react.&lt;/p&gt;
-
-&lt;p&gt;We sailed into  the river mouth through  all the islands and figured  out how to
-get in safely.  While we could have  sailed up the river, we  thought that since
-this is our first attempt at it we’ll play is safe and use the outboard motor to
-get us to  our anchorage. We kept  observing the winds as we  motored and talked
-about how  we could have sailed  it. While this  was less exciting it  was still
-worth while as I’m sure we’re learning from it. Once we found the spot we wanted
-to anchor in I  dropped the anchor as Annie turned Taleisin  around to face into
-the wind and set the anchor at the same time.&lt;/p&gt;
-
-&lt;p&gt;Anchoring is getting easier and less daunting.  I guess I’ve read too many books
-and stories about anchoring  gone wrong. It would appear that  if the holding is
-good, it’s just a case of getting  enough chain out and allowing enough room for
-the anchor to set.&lt;/p&gt;
-
-&lt;p&gt;Whilst the adventure is  not as exhilarating as some of  the previous ones, it’s
-still fun and the  challenges are just enough to keep us  on our toes. Hopefully
-we  can  keep building  skill  and  confidence as  we  continue  to cruise  this
-wonderful little boat.&lt;/p&gt;
-
-&lt;p&gt;As an added bonus we got a special  treat tonight. We watched the sun set in the
-West and  minutes later we watched  the moon rise  in the east. Tonight  is full
-moon, it’s quite spectacular being out on the water.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31452075783/in/photostream/&quot; title=&quot;Moon rise&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/505/31452075783_b4cf4995af_c.jpg&quot; width=&quot;800&quot; height=&quot;492&quot; alt=&quot;Moon rise&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/small-adventures/&quot;&gt;Small Adventures&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 12, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -461,13 +245,13 @@ moon, it’s quite spectacular being out on the water.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Rookie Mistake]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/rookie-mistake/" />
-  <id>http://taleisin.com/rookie-mistake</id>
+  <link rel="alternate" type="text/html" href="/rookie-mistake/" />
+  <id>/rookie-mistake</id>
   <published>2017-01-08T18:33:23+13:00</published>
   <updated>2017-01-08T18:33:23+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -501,56 +285,9 @@ motoring. I’ll take that as a small victory.&lt;/p&gt;
 
 &lt;p&gt;We had, what I thought,  a clean line to sail out of the  harbour. So I kept the
 course I  was steering.  Then things  changed a  little and  I recall  saying to
-Annie. We’re too close to the headland, I don’t like this one bit, lets tack.&lt;/p&gt;
+Annie. We’re too close to the headland,...
+    &lt;p&gt;&lt;a href=&quot;/rookie-mistake/&quot;&gt;Continue reading Rookie Mistake here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 08, 2017.&lt;/p&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32139449986/&quot; title=&quot;Rookie mistake&quot;&gt;&lt;img src=&quot;https://c3.staticflickr.com/1/548/32139449986_d9a07ba4f4_c.jpg&quot; width=&quot;800&quot; height=&quot;598&quot; alt=&quot;Rookie mistake&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We attempted to tack.  Taleisin would come around and then all  of a sudden just
-fall back. Something wasn’t  right! Not too worry, we have room  so we’ll try it
-again. This  time with  more speed.  Taleisin comes around  and then  just falls
-back. Ok, we’ll try again this time more  speed and give the helm all she’s got.
-Now we’re  getting a little tense,  this same thing happened.  Annie did suggest
-that we gybe or start the motor, I  jumped, started the motor in what some might
-call a bit of a panic, and opened the throttle. Helm hard over, Taleisin finally
-comes around! A huge sigh of relief, adrenaline rushing as we knew it was close.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32029501852/in/photostream/&quot; title=&quot;Rookie mistake&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/1/449/32029501852_6aeb50067a_c.jpg&quot; width=&quot;800&quot; height=&quot;703&quot; alt=&quot;Rookie mistake&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;You can see  in the closer zoom the  3 attempts at tacking. Then the  loop as we
-motored around. As I looked back from the turn I said to Annie, that was way too
-close for my liking! We made it out of the harbour without any further drama. It
-wasn’t exactly a calm day out there, so we looked at each other and decided that
-it was  enough adventure for  one day. Rather than  proceed to the  anchorage we
-planned on,  we’ll turn tail and  run back to  North Cove. We sailed  into North
-Cove and attempted  to pick the mooring  up under sail. We  were tracking slowly
-enough until we  turned the corner and the  wind picked up and we  sped past the
-mooring. Rather than persist I agreed with  Annie that the best course of action
-would be to just used the outboard and chicken out.&lt;/p&gt;
-
-&lt;p&gt;The motor was already running at this point so we only had to put it in gear and
-open the throttle. We motored around and attempted it again. This time coming in
-slowly with the wind  on the beam. We didn’t quite make it  as the wind blew the
-bow off. Ok lets  try that again. Again we motored around to  try the same thing
-again this  time steering a  little higher. It’s  madness trying the  same thing
-over and over  again expecting different results, never the  less we’ll give her
-another go just in case we didn’t learn the first time. Same result! Ok we’ll go
-round again.  Wait! What?  This is  madness! I turned  Taleisin hard  around and
-slowly allowed the wind  to blow us onto the mooring. I had  to put the motor in
-reverse to get us positioned just right. Success!&lt;/p&gt;
-
-&lt;p&gt;We’re now safely secured to the mooring.  It’s gusting up to 20 knots out there,
-we’ve had time to re-evaluate the  situation. The adrenaline has worn off. Annie
-busy cooking us a nice meal.&lt;/p&gt;
-
-&lt;p&gt;Bottom  line:  Nobody got  hurt,  nothing  go  damaged  (except maybe  my  ego),
-everything actually worked out in the end.  We’ll take this lesson on aboard and
-go  try again  when we’re  rested and  ready for  more adventure.  It’s easy  to
-overlook the good. We had a few things  that we managed to do without any drama.
-There was only really one major drama.&lt;/p&gt;
-
-&lt;p&gt;We might try again tomorrow!&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/rookie-mistake/&quot;&gt;Rookie Mistake&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 08, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -559,13 +296,13 @@ There was only really one major drama.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Off Grid]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/off-grid/" />
-  <id>http://taleisin.com/off-grid</id>
+  <link rel="alternate" type="text/html" href="/off-grid/" />
+  <id>/off-grid</id>
   <published>2017-01-06T20:12:58+13:00</published>
   <updated>2017-01-06T20:12:58+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -598,49 +335,9 @@ was determined to get a win today even if it’s just a small one.&lt;/p&gt;
 around and  come back to  anchor. For bonus points  since it’s not  blowing that
 hard, lets try to do it under sail.&lt;/p&gt;
 
-&lt;p&gt;So we  had our plan, we  were reaching into the  harbour and then the  wind died
-down.  We were  doing 0.7  knots according  to  the GPS.  It felt  like we  were
-standing  still. We  could see  the club  house, but  it looked  like it  was an
-eternity away. Since we weren’t in any danger and there was nothing around us we
-persisted.  We were  waiting  for the  wind  to pick  up. It  was  a little  bit
-frustrating and very tempting  to use the motor, but we refused  to give up. The
-wind  finally picked  up and  we  were doing  4.8  knots according  to the  GPS.
-Persistence paid off!&lt;/p&gt;
+&lt;p&gt;So we  had our plan, we  were r...
+    &lt;p&gt;&lt;a href=&quot;/off-grid/&quot;&gt;Continue reading Off Grid here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 06, 2017.&lt;/p&gt;
 
-&lt;p&gt;As we  sailed past the  club house we  picked a spot  to anchor, well  away from
-other boats! I dropped the jib while Annie sailed us through the other boats. We
-gybed and came back around under main  and stays’l. As we approached the spot we
-wanted to anchor  in I dropped the main  while Annie kept us going  in the right
-general direction. I let the anchor go while still sailing slowly under stays’l.&lt;/p&gt;
-
-&lt;p&gt;When we had a reasonable amount of chain  out and it looked like the anchor have
-set I  dropped the stays’l and  let out some  more chain. Taleisin fell  off and
-started to lay head to  the wind. We sat on deck for about  an hour to make sure
-everything was ok.&lt;/p&gt;
-
-&lt;p&gt;Both Annie and myself felt pretty good  about anchoring under sail. We were also
-the only  ones who sailed  into the harbour at  that particular time,  let alone
-anchor under sail. I will chalk this one up to a successful adventure!&lt;/p&gt;
-
-&lt;p&gt;We spent the rest of the day  doing laundry and carrying water to Taleisin. Sure
-we  could have  motored  up to  the  dock and  filled her  up,  but where’s  the
-challenge in  that? Yes  it was  hard work  carrying water  and rowing  back and
-forth. But we feel  better for having done it that way, we  got some much needed
-exercise and we feel less guilty about doing very little in the previous days.&lt;/p&gt;
-
-&lt;p&gt;We still have to do a couple of  water trips in the morning, but that’s ok. It’s
-not like we have anywhere to be. I believe this is called earning a living…&lt;/p&gt;
-
-&lt;p&gt;Our laundry is clean and we had a  nice shower - not that the shower on Taleisin
-is anything to complain about, we’re quite happy using it.&lt;/p&gt;
-
-&lt;p&gt;The anchorage filled up rapidly towards the end of the day. We anchored where we
-thought we’d be out of the way. Since then we’ve been surrounded by boats of all
-shapes and sizes.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31987548922/&quot; title=&quot;Untitled&quot;&gt;&lt;img src=&quot;https://c3.staticflickr.com/1/521/31987548922_bfa7ff6969_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Untitled&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/off-grid/&quot;&gt;Off Grid&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 06, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -649,13 +346,13 @@ shapes and sizes.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Back on the Grid]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/back-on-the-grid/" />
-  <id>http://taleisin.com/back-on-the-grid</id>
+  <link rel="alternate" type="text/html" href="/back-on-the-grid/" />
+  <id>/back-on-the-grid</id>
   <published>2017-01-04T07:41:34+13:00</published>
   <updated>2017-01-04T07:41:34+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -689,19 +386,9 @@ time, I just got to the task as soon as I could wade into the water and give her
 a good scrub down. It was a lot easier  this time. There was no tears and we got
 the job done before 5pm.&lt;/p&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31261883483/in/photostream/&quot; title=&quot;Back on the grid&quot;&gt;&lt;img src=&quot;https://c4.staticflickr.com/1/684/31261883483_d5cec34bdf_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Back on the grid&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr...
+    &lt;p&gt;&lt;a href=&quot;/back-on-the-grid/&quot;&gt;Continue reading Back on the Grid here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2017.&lt;/p&gt;
 
-&lt;p&gt;I  also took  the seacock  apart. I  gave  it a  clean and  discovered that  the
-internal bronze  tube has  corroded away.  This is not  critical to  keeping the
-system sealed up, but I will attempt to manufacture a replacement for it.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31261890533/in/photostream/&quot; title=&quot;Back on the grid&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/1/564/31261890533_0581abdd83_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;Back on the grid&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;The hospitality in North Cove is still  great, we had another great evening with
-the locals. Today we’re heading to the  main land with Lin, hopefully we can get
-rid of some of our trash and re-supply some fresh food.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/back-on-the-grid/&quot;&gt;Back on the Grid&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -710,13 +397,13 @@ rid of some of our trash and re-supply some fresh food.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Baking Bread]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/baking-bread/" />
-  <id>http://taleisin.com/baking-bread</id>
+  <link rel="alternate" type="text/html" href="/baking-bread/" />
+  <id>/baking-bread</id>
   <published>2017-01-02T17:45:19+13:00</published>
   <updated>2017-01-02T17:45:19+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -746,9 +433,9 @@ the next few days and maybe go practice anchoring in the next bay over.&lt;/p&gt
 deliberately left the outboard at home to force us to row and get better at it.
 I’m sure over time this will not be an issue at all and we’ll be healthier for
 it. One thing we have been doing is taking turns rowing. If I row out Annie will
-row back. That way we both get practice and exercise.&lt;/p&gt;
+row back. That way we both get p...
+    &lt;p&gt;&lt;a href=&quot;/baking-bread/&quot;&gt;Continue reading Baking Bread here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 02, 2017.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/baking-bread/&quot;&gt;Baking Bread&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 02, 2017.&lt;/p&gt;
   </content>
 </entry>
 
@@ -757,13 +444,13 @@ row back. That way we both get practice and exercise.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Interview - Hooked on Wooden Boats]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/interview-hooked-on-wooden-boats/" />
-  <id>http://taleisin.com/interview-hooked-on-wooden-boats</id>
+  <link rel="alternate" type="text/html" href="/interview-hooked-on-wooden-boats/" />
+  <id>/interview-hooked-on-wooden-boats</id>
   <published>2017-01-01T10:09:36+13:00</published>
   <updated>2017-01-01T10:09:36+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -781,7 +468,8 @@ Cove we’ve never seen before. This place  is magical. When we head over that w
 again I’ll  be sure to take  some pictures. Thank  you to all the  residents for
 making our time here very pleasurable!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/interview-hooked-on-wooden-boats/&quot;&gt;Interview - Hooked on Wooden Boats&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 01, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/interview-hooked-on-wooden-boats/&quot;&gt;Continue reading Interview - Hooked on Wooden Boats here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 01, 2017.&lt;/p&gt;
+
   </content>
 </entry>
 
@@ -790,13 +478,13 @@ making our time here very pleasurable!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Dinner Is Served]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/dinner-is-served/" />
-  <id>http://taleisin.com/dinner-is-served</id>
+  <link rel="alternate" type="text/html" href="/dinner-is-served/" />
+  <id>/dinner-is-served</id>
   <published>2016-12-30T20:29:40+13:00</published>
   <updated>2016-12-30T20:29:40+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -830,30 +518,9 @@ be quiet and, not disturb any of the boats around us.&lt;/p&gt;
 
 &lt;p&gt;Annie decided  that she would row  the warp out. We  attached a warp to  the old
 mooring and to the stren, the warp Annie rowed out was attached to the bow. This
-configuration allowed us to prevent Taleisin  from swinging into other boats, we
-could control her speed by breaking with the  stern line on a winch, and most of
-all we never  lost control of her.  We worked together to  keep Taleisin running
-nicely along  the two  lines and  gently glided  her into  place on  the correct
-mooring. It was fun and we’ve had lots  of practice at it already so we probably
-didn’t look too  terrible doing it. We’ve  even had some kind  comments about it
-from the other sailors.&lt;/p&gt;
+configuratio...
+    &lt;p&gt;&lt;a href=&quot;/dinner-is-served/&quot;&gt;Continue reading Dinner Is Served here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 30, 2016.&lt;/p&gt;
 
-&lt;p&gt;Among the  other small jobs I’ve  been doing on  Taleisin I replaced the  last 2
-halyards, she’s  looking quite fresh  with the  majority of the  lines replaced.
-Doing one or two a day really adds up quickly. Replacing the lifelines will take
-quite a bit of effort as it involves the jib net and sewing leather anti-chafing
-onto the lines where they go through the stanchions.&lt;/p&gt;
-
-&lt;p&gt;All in  good time, it doesn’t  feel like work as  it’s quite enjoyable to  do. I
-think the key is  to slowly chip away at these jobs  and everything just becomes
-manageable. Maintenance  is a  lot less of  a chore when  you’re already  on the
-boat, it  seems to just  happen as  a matter of  course. When you  see something
-small that needs doing, you just do it.&lt;/p&gt;
-
-&lt;p&gt;So far cruising  seems to be great!  We’re loving it and  most importantly we’re
-still talking to each other!&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/dinner-is-served/&quot;&gt;Dinner Is Served&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 30, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -862,13 +529,13 @@ still talking to each other!&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Hanging Out in North Cove]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/hanging-out-in-north-cove/" />
-  <id>http://taleisin.com/hanging-out-in-north-cove</id>
+  <link rel="alternate" type="text/html" href="/hanging-out-in-north-cove/" />
+  <id>/hanging-out-in-north-cove</id>
   <published>2016-12-28T19:10:05+13:00</published>
   <updated>2016-12-28T19:10:05+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -899,39 +566,9 @@ the electric windlass on her boat.&lt;/p&gt;
 &lt;p&gt;It was fairly uneventful apart from the fact that I still need to learn that the
 wind affects the boats direction, so heading in the direction I want to go in is
 not likely to be  the direction we’re actually going. The two  girls did a great
-job fending off a power boat that I would have hit otherwise.&lt;/p&gt;
+job fending off a power ...
+    &lt;p&gt;&lt;a href=&quot;/hanging-out-in-north-cove/&quot;&gt;Continue reading Hanging Out in North Cove here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 28, 2016.&lt;/p&gt;
 
-&lt;p&gt;We did a couple of takes to get  close to the right mooring (which turned out to
-be the wrong  mooring in the end).  Annie grabbed the mooring buoy  like a champ
-and we were tied on in no time at all.&lt;/p&gt;
-
-&lt;p&gt;Once on the  mooring we decided that it’s  probably time to have a  shower so we
-gave the shower facilities on board a try.  After all this is the reason we have
-no inboard engine. While it will take a little bit getting used to the shower it
-was still much  better than trying to  shower while camping. I  think we’ll keep
-the bath tub instead of putting an engine in there!&lt;/p&gt;
-
-&lt;p&gt;After we  were nice  and clean  Annie decided that  she wanted  to tidy  and put
-things in  a bit more  order. I chose  to go up on  deck to replace  some lines.
-After all I’m  lugging 3 bails of line  with us to do just that.  I replaced the
-old preventer vang that was getting on  in the years a bit. Annie suggested that
-I upcycle  a bit  of old cruddy  rope to  weave a mat  for our cat  to use  as a
-scratchy pad.  I broke out  the Ashley books of  knots and found  something that
-looked suitable. Here’s the result:&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31089262364/in/photostream/&quot; title=&quot;Hanging out in north cove&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/1/349/31089262364_202bc688ab_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Hanging out in north cove&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31556666280/&quot; title=&quot;Untitled&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/448/31556666280_bdc65f8058_c.jpg&quot; width=&quot;505&quot; height=&quot;800&quot; alt=&quot;Untitled&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;After finishing what  we set out to do  on board we rowed ashore to  have a nice
-visit with Lin.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31120078263/&quot; title=&quot;Hanging out in north cove&quot;&gt;&lt;img src=&quot;https://c8.staticflickr.com/1/678/31120078263_0ec81aabcf_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Hanging out in north cove&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31120074093/in/photostream/&quot; title=&quot;Hanging out in north cove&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/1/620/31120074093_afbe2a0fb2_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Hanging out in north cove&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/hanging-out-in-north-cove/&quot;&gt;Hanging Out in North Cove&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 28, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -940,13 +577,13 @@ visit with Lin.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Return to North Cove]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/return-to-north-cove/" />
-  <id>http://taleisin.com/return-to-north-cove</id>
+  <link rel="alternate" type="text/html" href="/return-to-north-cove/" />
+  <id>/return-to-north-cove</id>
   <published>2016-12-27T19:27:34+13:00</published>
   <updated>2016-12-27T19:27:34+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -983,21 +620,9 @@ and went further out than I would have  liked. We found a spot of clear water so
 we can have lots of room. I drop the anchor. This time I’m not messing around we
 put 35 fathoms of chain out! Now we’re holding.&lt;/p&gt;
 
-&lt;p&gt;Lin did  come by and offer  us a mooring  that’s available. I suggested  that we
-move but  Annie thought that 3  attempts at anchoring was  enough excitement for
-one day. Fair enough I figured! We can try to pick up the mooring in the morning
-when we have time for more adventure.&lt;/p&gt;
+&lt;p&gt;Lin did  come by and offer  us a mooring  that’s ava...
+    &lt;p&gt;&lt;a href=&quot;/return-to-north-cove/&quot;&gt;Continue reading Return to North Cove here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 27, 2016.&lt;/p&gt;
 
-&lt;p&gt;Annie cooked us a lovely dinner and we’re just settling in for the night.&lt;/p&gt;
-
-&lt;p&gt;Here’s some photos of North Cove, Taleisin hasn’t been home in some time…&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31757409172/&quot; title=&quot;North cove&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/1/467/31757409172_988e52891f_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;North cove&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31788415331/in/photostream/&quot; title=&quot;North cove&quot;&gt;&lt;img src=&quot;https://c4.staticflickr.com/1/407/31788415331_aa2cceffa6_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;North cove&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/return-to-north-cove/&quot;&gt;Return to North Cove&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 27, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1006,13 +631,13 @@ when we have time for more adventure.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Escape]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/escape/" />
-  <id>http://taleisin.com/escape</id>
+  <link rel="alternate" type="text/html" href="/escape/" />
+  <id>/escape</id>
   <published>2016-12-26T17:10:15+13:00</published>
   <updated>2016-12-26T17:10:15+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1047,16 +672,9 @@ bodies.&lt;/p&gt;
 &lt;p&gt;Below are  some pictures  of the  little anchorage we’re  in. We’re  anchored in
 about 4.5 meters of water and so far it would seem like a calm quite anchorage!&lt;/p&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31763627521/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/368/31763627521_821a659ba6_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Escape&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31763627521/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/368/31763627521_821a659ba6_c.jpg&quot; wid...
+    &lt;p&gt;&lt;a href=&quot;/escape/&quot;&gt;Continue reading Escape here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 26, 2016.&lt;/p&gt;
 
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31070853873/in/photostream/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/526/31070853873_0d6be758ed_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Escape&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31842745676/in/photostream/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/1/256/31842745676_8f8bfd1573_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Escape&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31763620081/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/339/31763620081_3842fd3f3c_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Escape&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/escape/&quot;&gt;Escape&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 26, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1065,13 +683,13 @@ about 4.5 meters of water and so far it would seem like a calm quite anchorage!&
 
 <entry>
   <title type="html"><![CDATA[Port Townsend Wooden Boat Festival 2016]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/port-townsend-wooden-boat-festival-2016/" />
-  <id>http://taleisin.com/port-townsend-wooden-boat-festival-2016</id>
+  <link rel="alternate" type="text/html" href="/port-townsend-wooden-boat-festival-2016/" />
+  <id>/port-townsend-wooden-boat-festival-2016</id>
   <published>2016-10-31T16:08:31+13:00</published>
   <updated>2016-10-31T16:08:31+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1097,123 +715,9 @@ getting there by  public transport is quite  a feat in itself.  Our journey from
 Seattle started early  in the morning taking  the train from our  hotel close to
 the SeaTac  airport. A short walk  from down town  Seattle to a 30  minute ferry
 ride. Once off the  Ferry we caught a bus to Poulsbo, then  we spent the bulk of
-the day in Poulsbo  waiting for one of 2 buses to Port  Townsend, one at 9am and
-one at 5pm. We  didn’t do our homework properly and weren’t  quite aware of this
-fact…&lt;/p&gt;
+the day in Poulsbo  wai...
+    &lt;p&gt;&lt;a href=&quot;/port-townsend-wooden-boat-festival-2016/&quot;&gt;Continue reading Port Townsend Wooden Boat Festival 2016 here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on October 31, 2016.&lt;/p&gt;
 
-&lt;p&gt;Eventually we made our  way into Port Townsend late in  the afternoon. We walked
-from the bus stop to our accommodation. Everybody in town was very friendly, the
-homeless people  sleeping in the  park were greeting us  as we walked  past. The
-feel of the town was worlds apart from the busy city. Port Townsend truly is the
-hidden gem of the pacific north west.  Our hosts drove us into town that evening
-for dinner. It’s worth noting that we have never met them before. They were kind
-enough  to put  us  up for  the  duration of  the festival  at  no charge.  It’s
-important  to note  that  if  you’re planning  on  attending  the festival  that
-accommodation books out a year in advance,  plan well ahead and book very early.
-After dinner I had to  use a bit of slight of hand so  that I could actually pay
-the bill, our hosts were being too kind to us. This was only the start of a very
-warm reception in this wonderful town.&lt;/p&gt;
-
-&lt;p&gt;The next morning  our hosts sent me a  text message to inform me  that they have
-left us passes  for the festival which will  get us in, free of  charge. This is
-generally not  the sort of thing  we’re used to.  We stayed close enough  to the
-festival grounds  so that we  could walk.  We set off  early in the  morning and
-there was a  bit of a chill in the  air. By the time we reached  the festival it
-was nice and warm.&lt;/p&gt;
-
-&lt;p&gt;The festival is held in the marina on the edge of town. There are over 300 boats
-packed  in like  sardines. The  harbour master  did a  fantastic job.  The boats
-ranged from large steamers and schooners  to small row boats, beautiful stand up
-paddle boards  and kayaks. If  there was a  way to build it  out of wood  and it
-floated you could find it there. This might sound strange but there were so many
-beautiful boats  that it all got  lost in the  abundance. It was really  hard to
-appreciate each  individual boat with so  many around it. The  docks were filled
-with enthusiasts  of all  ages. It didn’t  take long before  we were  invited to
-board vessels,  with proud owners showing  off their baby. We  could spend hours
-talking to one owner  and looking at just one boat. Unfortunately  we only had 3
-days to see as many of the 300 odd boats as we could.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/30818279046/in/dateposted-public/&quot; title=&quot;DSC_6147&quot;&gt;&lt;img src=&quot;https://c7.staticflickr.com/6/5760/30818279046_c48db1aa02_c.jpg&quot; width=&quot;800&quot; height=&quot;531&quot; alt=&quot;DSC_6147&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;With so  many boats around,  and so many  Kiwi’s, there was  bound to be  a Kiwi
-boat. Heather  is a 37 footer  built in Auckland  in 1937. She completed  a solo
-circumnavigation in  the mid  60’s and  sailed to  Hawaii in  the 70’s,  now she
-resides in Port Townsend. It was great to see a little bit of home.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/30222706544/in/photolist-N3FgHj-N3Fgi1-N3FfpC-N3FfSw-N3Fe8E-N3FdvC-NQfCUQ-NQfAT5-NQfAnL-NQfzPS-N3o7hP&quot; title=&quot;DSC_6165&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/6/5598/30222706544_dd4865ba9f_c.jpg&quot; width=&quot;800&quot; height=&quot;531&quot; alt=&quot;DSC_6165&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Given  the amount  of boats  it became  quite  clear that  3 days  would not  be
-enough, to  add to the  challenge there  were multiple seminars  being presented
-simultaneously throughout the entire festival. It was impossible to choose which
-seminars to attend and which to skip. They were all very well presented and full
-of incredibly useful information. If you were  that way inclined you could get 3
-days worth of value out of just  attending seminars. While all of this is taking
-place there’s a bunch of teams building wooden boats for the competition that is
-held over  the three days. We  were so busy that  we never got to  see the final
-results. We  managed to have one  walk by to  inspect the progress on  the first
-day. We spent some time in the  seminars, all the seminars we attended were well
-presented and has something of value in them.&lt;/p&gt;
-
-&lt;p&gt;Our hosts put on a fantastic BBQ for  some of us Kiwis, we spent the whole night
-having a great  time with all the new  friends we made. While at the  BBQ it was
-suggested that we try to get onboard  for the schooner racing. We spent the next
-morning trying to find  a boat to crew on. We were  not successful, barefoot Bob
-to the rescue! We met Bob at the BBQ our hosts put on for the Kiwis, he’s a very
-colourful character with  a great sense of  humour. Bob found us  a spot onboard
-Sassafrass, the  owners were very friendly  and we had a  blast. There’s nothing
-quite like experiencing these wonderful boats  out on the water under full sail!
-This took up the entire afternoon, while  it cost us valuable time we could have
-used looking at boats at the docks. This experience was well worth the cost!&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/30553738340/in/dateposted-public/&quot; title=&quot;DSC_6078&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/6/5643/30553738340_42a4946780_c.jpg&quot; width=&quot;800&quot; height=&quot;263&quot; alt=&quot;DSC_6078&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;If that was not enough, the town  is littered with antique shops and second hand
-bookshops. This  is another favourite of  ours, we only managed  2 bookshops and
-one antique shop, it was huge, the biggest antique shop we’ve ever been in. This
-alone made us wish we had 3 weeks to spend in this wonderful town.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/30553896060/in/album-72157674832493471/&quot; title=&quot;DSC_6236&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/6/5694/30553896060_5025e1b862_c.jpg&quot; width=&quot;800&quot; height=&quot;531&quot; alt=&quot;DSC_6236&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;To top the experience off there were all  kinds of toys and eye candy for boats.
-Almost anything  imaginable for wooden boats.  The foundry had a  display of the
-wonderful goodies  they can  make for  your boat.  Authors selling  their books,
-tools,  tools and  more  tools. If  you’re  a  lover of  wooden  boats, this  is
-certainly the place to  be. I recommend you come for the  festival, but stay for
-the town and it’s wonderful people!&lt;/p&gt;
-
-&lt;p&gt;The festival  closes with the  most spectacular event.  All the boats  leave the
-marina and  sail up and  down the  harbour so that  everybody can see  them from
-shore. I have never  in my life seen so many beautiful wooden  boats sail at the
-same time. There were  classics as far as the eye could see.  To quote a friend,
-“You can’t beat the classics!”&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/30219451333/in/dateposted-public/&quot; title=&quot;DSC_6247&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/6/5797/30219451333_f2200f7499_c.jpg&quot; width=&quot;800&quot; height=&quot;531&quot; alt=&quot;DSC_6247&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;I mentioned earlier that there’s only 2  buses in and out of Port Townsend. This
-left us  with a  bit of  a dilemma.  Since I  didn’t do  my homework  and booked
-flights out of SeaTac  for 9am on Monday, this meant we would  have to leave the
-festival at 4pm on Sunday to catch the  bus at 5pm back to Seattle and spend the
-night at the airport. When I started  to ask around if there was anybody leaving
-super early on Monday  morning so we could catch the 6am  ferry (2 hours drive),
-barefoot Bob came to our rescue. Bob is  a Port Townsend local, he’s got a heart
-of gold. He  asked around, since he  was working with the harbour  master he was
-talking to lots of  people. He came up empty handed, but  in the most unexpected
-bit  of kindness  he offered  to drive  us  to the  ferry at  4am himself.  This
-illustrates just how  kind the people in  this little town are. Bob  made an off
-the cuff  comment that this  is what  they do in  Port Townsend. I  believe him,
-everybody was awesome!&lt;/p&gt;
-
-&lt;p&gt;Suffice to  say we made the  journey on Monday  morning and caught our  plane to
-Boston without any drama. A special  thanks to barefoot Bob, Brion and Christian
-for making our  stay in Port Townsend very special  and something we’ll remember
-for the rest of our lives.&lt;/p&gt;
-
-&lt;p&gt;If you ever  find yourself in Port  Townsend, find barefoot Bob!  Buy him lunch,
-dinner or a beer. This will give you an excuse to meet him, he is awesome!&lt;/p&gt;
-
-&lt;p&gt;PS. If you’re looking for more pictures check out my collection over &lt;a href=&quot;https://www.flickr.com/photos/sdki/albums/72157674832493471&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/port-townsend-wooden-boat-festival-2016/&quot;&gt;Port Townsend Wooden Boat Festival 2016&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on October 31, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1222,13 +726,13 @@ dinner or a beer. This will give you an excuse to meet him, he is awesome!&lt;/p
 
 <entry>
   <title type="html"><![CDATA[Why a 20 hp Outboard]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/why-a-20hp-outboard/" />
-  <id>http://taleisin.com/why-a-20hp-outboard</id>
+  <link rel="alternate" type="text/html" href="/why-a-20hp-outboard/" />
+  <id>/why-a-20hp-outboard</id>
   <published>2016-08-08T14:58:17+12:00</published>
   <updated>2016-08-08T14:58:17+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1265,37 +769,9 @@ here.&lt;/p&gt;
 &lt;p&gt;Tohatsu is another one that was mentioned. The dealers proved challenging to get
 a quote from,  at first. This lead me  to wonder what support would  be like, if
 they are in sales  mode they are at their best, so they  won’t get any better…
-The motor  that was quoted was  not only 20%  more expensive than the  Honda but
-also weighed 62 kg. It’s worth noting  that this was a manual/electric start and
-also a manual/power tilt - which explains the weight.&lt;/p&gt;
+The motor  that was quoted was  not only 20%  more e...
+    &lt;p&gt;&lt;a href=&quot;/why-a-20hp-outboard/&quot;&gt;Continue reading Why a 20 hp Outboard here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on August 08, 2016.&lt;/p&gt;
 
-&lt;p&gt;Honda, I looked at  the 8/10 hp which is the same  motor just tuned differently,
-this was 48 kg. The 15/20 hp. which  is the same motor just tuned differently at
-52 kg.&lt;/p&gt;
-
-&lt;p&gt;These are the only motors I’ll mention as inboards were not an option due to the
-required hole(s) in the hull. Other manufacturers didn’t do 25” shafts.&lt;/p&gt;
-
-&lt;p&gt;At the end  of the day the weight  vs benefit ration landed me with  Honda 20 hp
-25” shaft, of course the dealer was fantastic too so that helps.&lt;/p&gt;
-
-&lt;p&gt;A quick  note on electric  inboards. The cost of  the motor and  batteries would
-have been 3  times the total of  the outboard solution. I didn’t  even bother to
-cost the installation  of it. It was  considered as a hypothetical  case, but it
-was never really  an option. This of  course comes with the problem  of where to
-store all those batteries. The same goes for electric POD motors.&lt;/p&gt;
-
-&lt;p&gt;Taking all of the  above and possibly a lot of things I  forgot about, it seemed
-that the sensible choice would be to go for 20 hp. over 8 hp. for a 4 kg. weight
-increase. The option to  go with a smaller engine is always  there too, not that
-you gain much by going smaller, maybe if I  went for a 5 hp. motor it might have
-made a noticeable difference in weight. Taleisin is 8 tons when empty, the 8 hp.
-on the rubber  ducky does the job but  leaves a lot to be  desired and certainly
-wont stop her in a  hurry if it’s needed. I learnt that the  hard way when I got
-defeated in the marina (see the post about it).&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/why-a-20hp-outboard/&quot;&gt;Why a 20 hp Outboard&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on August 08, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1304,13 +780,13 @@ defeated in the marina (see the post about it).&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Training Wheels]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/training-wheels/" />
-  <id>http://taleisin.com/training-wheels</id>
+  <link rel="alternate" type="text/html" href="/training-wheels/" />
+  <id>/training-wheels</id>
   <published>2016-07-31T10:59:23+12:00</published>
   <updated>2016-07-31T10:59:23+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1342,199 +818,9 @@ mounted motor, but rejected that idea because when I had Ducky on the quarter it
 was very hard to get steerage as low speed.&lt;/p&gt;
 
 &lt;p&gt;Always at some  point I’d stop and  ask myself, what’s the objective?  What am I
-trying to  achieve with all of  this. The answer  is never, to give  Taleisin an
-engine. The  answer is always to  facilitate learning and accelerate  our way up
-the learning  cliff (that’s when the  curve goes up and  backwards). Taleisin is
-not a beginners  boat, that means we  can’t take the usual  approach to learning
-with her.&lt;/p&gt;
+trying to  achieve with all of  this. The answer  is never, to give  Talei...
+    &lt;p&gt;&lt;a href=&quot;/training-wheels/&quot;&gt;Continue reading Training Wheels here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 31, 2016.&lt;/p&gt;
 
-&lt;p&gt;When  I got  completely and  utterly defeated  by Taleisin  in the  marina Annie
-suggested that we get a mooring and try that approach first (I actually listened
-that  time). It  worked and  we learnt  quite a  bit while  on the  mooring. The
-reality though, we didn’t get out on Taleisin as much as we should have. Getting
-to and from  the mooring was a  long and slow process. Keeping  the objective in
-mind, this  was the  opposite. I’d be  lying if  I said that  I didn’t  drive by
-Taleisin every time the weather was acting up, to check on her. I probably would
-not be  able to do much  in the event that  something went wrong, but  I checked
-none the less. Every storm I’d be  laying awake at night worrying about Taleisin
-on the mooring (for the record, worrying does nothing but make you feel bad).&lt;/p&gt;
-
-&lt;p&gt;With the seasons  changing, I said to  Annie we’re going back in  the marina for
-winter. This  wasn’t a hard sell  as Annie must  have been concerned too.  So we
-waited for a nice day to move Taleisin back into the marina. This of course left
-us stuck in the marina again. I started on solving the motor challenge again. If
-it’s easy  to come and go  from the marina, we’ll  use Taleisin a lot  more, and
-we’ll learn faster!&lt;/p&gt;
-
-&lt;p&gt;About the  same time Lin sent  me an email  saying that there’s some  people she
-thinks we’d enjoy meeting, they live on their wooden boat around the corner from
-Taleisin. I called Doug and went to his  boat Karie L. We hit it off immediately
-and it  wasn’t long before I  started talking about  my idea for a  motor mount.
-Doug was kind enough to help me with it.&lt;/p&gt;
-
-&lt;p&gt;Doug produced a  lot of conceptual drawings which eventually  lead to the design
-that’s now mounted on Taleisin’s bumpkin.
-&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28733328515/in/dateposted-public/&quot; title=&quot;Motor Mount 3&quot;&gt;&lt;img src=&quot;https://c4.staticflickr.com/9/8632/28733328515_9846eef82b_c.jpg&quot; width=&quot;571&quot; height=&quot;800&quot; alt=&quot;Motor Mount 3&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28733334875/in/dateposted-public/&quot; title=&quot;Motor Mount 1&quot;&gt;&lt;img src=&quot;https://c4.staticflickr.com/8/7484/28733334875_5be22dbc9b_c.jpg&quot; width=&quot;571&quot; height=&quot;800&quot; alt=&quot;Motor Mount 1&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115679104/in/dateposted-public/&quot; title=&quot;IMG_1814&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8711/28115679104_8eb2e8c762_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;IMG_1814&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Doug made a pattern for the design and  we got it cast in bronze, I’m very happy
-with the results!&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28701183856/in/dateposted-public/&quot; title=&quot;IMG_1819&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8153/28701183856_1bda1ede0f_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;IMG_1819&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;The essence  of the mount  is a  length of teak  across the bumpkin,  behind the
-rudder. This  is clamped onto  the bumpkin with 2  wooden blocks made  from teak
-with bronze bolts through it on either side of the spruce timber of the bumpkin.
-We’ve put  some rubber  padding between  the timbers to  protect it.  The bronze
-casting slides over the timbers on the port side (in theory this is a reversible
-bracket). Timber pads are glued on with sikaflex on the mounting plate, a couple
-of rivets are also in place as a “just in case”.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28117867283/in/dateposted-public/&quot; title=&quot;IMG_1821&quot;&gt;&lt;img src=&quot;https://c4.staticflickr.com/9/8451/28117867283_8f415a14b9_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1821&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115698534/in/dateposted-public/&quot; title=&quot;IMG_1822&quot;&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8803/28115698534_5d217b18db_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1822&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115699954/in/dateposted-public/&quot; title=&quot;IMG_1823&quot;&gt;&lt;img src=&quot;https://c3.staticflickr.com/9/8565/28115699954_7af2bac97c_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1823&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28628110962/in/dateposted-public/&quot; title=&quot;IMG_1824&quot;&gt;&lt;img src=&quot;https://c3.staticflickr.com/9/8714/28628110962_e0183a2e03_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1824&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We bought a 20HP Honda outboard. The motor has a 20” shaft, the dealer was great
-and installed  a 5” spacer to  make this a 25”  shaft motor, none of  this works
-without a 25” shaft motor!&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115697144/in/dateposted-public/&quot; title=&quot;IMG_1826&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/9/8855/28115697144_6622b09035_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1826&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115694764/in/dateposted-public/&quot; title=&quot;IMG_1828&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/9/8810/28115694764_fc510fc07e_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1828&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;With a  bit of fun  and games we  eventually managed to  get the motor  onto the
-bracket. The Leopard Seal in the marina came to investigate while we were at it,
-it was likely the banging noise from riveting.&lt;/p&gt;
-
-&lt;p&gt;We started the motor up and had it  running in forward and reverse. I had always
-known that there would be flex in  the mount if it’s not braced. Doug’s original
-concept had a tie-rod  from the chain plate to the mounting  plate. It was clear
-that this would be required.&lt;/p&gt;
-
-&lt;p&gt;At this point  rather than jumping in  and getting a tie-rod in  place I thought
-I’d take  a step back and  play around with a  few different ideas first.  In my
-original  idea there  was a  brace that  pushed up  against the  transom and  it
-lashings to the  chain plate and taffrail.  While thinking about all  of this it
-dawned on  me that  I didn’t  take shock loading  into consideration.  The motor
-weighs 52kg.  Shock loading could  turn that  into 500kg static  load equivalent
-without too  much effort (think gravity  when bouncing up and  down over waves).
-Taking a wave against  the motor is another thing all together  - I haven’t even
-started to think  about mitigating that scenario, other than  don’t get into the
-situation in the first place.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115686394/in/dateposted-public/&quot; title=&quot;IMG_1836&quot;&gt;&lt;img src=&quot;https://c3.staticflickr.com/9/8493/28115686394_562117be84_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1836&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115685244/in/dateposted-public/&quot; title=&quot;IMG_1837&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/9/8585/28115685244_53513008b5_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;IMG_1837&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28115683694/in/dateposted-public/&quot; title=&quot;IMG_1839&quot;&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8353/28115683694_5b5a9ebde2_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1839&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;So my  thinking cap  went on again.  I decided  to get some  cheap timber  for a
-prototype from the off-cuts bin at the local hardware store. I knocked something
-up that’s  functional. I bolted it  on with 2 eye  bolts. I got some  Dyneema to
-create rigging of some  sorts to keep the brace up against  the transom while in
-forward and reverse. I added a couple  of turn buckles so I could tighten things
-up. I  used a sewn webbing  sling with a larks  foot on the taffrail.  I added a
-shackle between the sling and the Dyneema to avoid friction melting through both
-(it’s very  scary how  easy this  is to do,  it’s something  I learnt  from rock
-climbing). The shackle is tri-loaded which is not ideal, but I doubt it would be
-the first point  of failure. One lashing is  around the brace to lift  it up and
-wedge it in place  against the transom. The other is to  the eyebolt which takes
-some of the motor load. This configuration gives me the triangle structure I was
-after to create a strong support.&lt;/p&gt;
-
-&lt;p&gt;This rig serves 2  purposes. The first is that it stops  the mount flexing under
-the motor’s torque.  The second is that  it transfers some of the  load from the
-bumpkin to the taffrail for shock loading.&lt;/p&gt;
-
-&lt;p&gt;With all  of this  in place,  Paul, another  friend I  made because  of Taleisin
-walked by on  Friday afternoon just as  I was finishing everything up.  He had a
-quick look and thought it looked good. The  next thing he asked if I was keen to
-give it a go.&lt;/p&gt;
-
-&lt;p&gt;So we  prepped Taleisin for her  maiden voyage under  her own motor. We  came up
-with a plan  and started to back  out. The sub-title of this  blog is “Adventure
-Machine”, and this post would not be complete without some adventure…&lt;/p&gt;
-
-&lt;p&gt;We let the  mooring lines go and  start backing Taleisin out. Paul  asked if the
-bowsprit was clear from  the pilings as we’re about to turn  into the fairway. I
-said the bowsprit  was clear. Paul asked if  we were good to go,  and suddenly I
-noticed that  the floating  line between  the bow and  stern mooring  lines were
-caught on the lifelines. I ran to release it. It wasn’t possible as I had undone
-the lifelines to get the motor on board and had tangled the floating line in the
-process. This meant that we’re still attached to the dock.&lt;/p&gt;
-
-&lt;p&gt;Quick, put her in forward, I yelled. We got Taleisin stopped so I could undo the
-lifelines. Paul was up at the bow fending so that the wind wouldn’t blow us into
-the launch next  to us. I got  the lifelines undone and released  us without too
-much trouble. Disaster averted!&lt;/p&gt;
-
-&lt;p&gt;Back to getting Taleisin out. We backed out and were able to use the outboard as
-a bit  of a  stern thruster by  turning it  with it’s tiller.  At this  point it
-started to feel like cheating. It was actually easy moving Taleisin. We left the
-fairway without any issue. The motor was  not pushing Taleisin’s bow off like we
-experienced with ducky on the quarter. It was actually easy to move her!&lt;/p&gt;
-
-&lt;p&gt;We took Taleisin  out into the harbour  with her new motor, pushing  against a 2
-knot current we were  making 4 knots over the ground.  Everything seemed to work
-as  expected. It’s  worth noting  that Paul  had a  blast, we  both enjoyed  the
-experience! Paul mentioned that we were busy making history.&lt;/p&gt;
-
-&lt;p&gt;Coming  back into  the  berth was  not terribly  difficult  either, compared  to
-previous experiences!&lt;/p&gt;
-
-&lt;p&gt;It’s a little premature  to call it a complete success. I still  need to see how
-things behave  when under sail.  The interesting thing  I noticed is  that while
-pushing along under  motor the bit of  timber used to brace  against the transom
-actually  gets submerged  at times.  If the  motor did  not have  a 25”  shaft I
-suspect it  would be  in danger  of drowning.  While I  don’t expect  any issues
-there’s a chance that things might get interesting on a starboard tack. The only
-way to find this out is to give it  a try. Given that the stern doesn’t go under
-water when sailing  normally there’s no real  reason to believe the  motor is in
-danger.&lt;/p&gt;
-
-&lt;p&gt;We’ll be  running with the motor  as is for the  time being so I  can figure out
-what the next best  step would be. I’m currently thinking  that a tie-rod system
-of some sort  would be a good  way to go. It’s  been pointed out to  me that the
-taffrail might not be  as strong as it looks. For this I  might figure out a way
-to get a block underneath it between the deck and the taffrail to strengthen it.
-The other option I  am thinking about with regard to  strenthening the whole lot
-is to replace the wire rigging underneath the bumpkin with a couple of tie-rods.
-I wont  be making any decisions  in a hurry and  will test the system  in gentle
-conditions first.&lt;/p&gt;
-
-&lt;p&gt;The next problem I’ll  be trying to solve, is a method for  lifting the motor on
-board so  I can store  is down below  in the lazaret. If  I can devise  a simple
-system for this it  would become possible to bring the motor  up on deck without
-much drama  and most  of these  concerns might  go away.  Provided of  course it
-becomes easy to do under way - which is probably far from trivial.&lt;/p&gt;
-
-&lt;p&gt;What I like about this approach is that  I’ve not altered Taleisin, so if I want
-to change anything I  can without consequences. I can fine  tune and evolve this
-into more if I want  to or we can use it to learn  enough to become confident in
-moving Taleisin the way she was intended  to be moved. We have more options with
-this solution than  the alternatives, it’s not possible to  “unmake” holes. It’s
-far from a perfect  solution, but it’s very pragmatic. It  looks like it belongs
-on the boat too, which is a nice bonus.&lt;/p&gt;
-
-&lt;p&gt;A big  thank you  to everybody  who has  had any  discussions with  me regarding
-motors and mounting them. It all added up and this is the sum total of all those
-conversations, even  if you  suggested putting  a hole  in the  boat it  was all
-valuable. We certainly would not have gotten  this far without all the input and
-ideas from everybody.&lt;/p&gt;
-
-&lt;p&gt;If anybody reading this  sees a major flaw in my thinking,  please point it out!
-If  you have  any  clever idea,  I’d  love to  hear  them! If  and  when I  make
-significant changes I’ll do a follow up blog post if there’s any interest in it.&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/training-wheels/&quot;&gt;Training Wheels&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 31, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1543,13 +829,13 @@ significant changes I’ll do a follow up blog post if there’s any interest in
 
 <entry>
   <title type="html"><![CDATA[Don't Pick at It, You'll Only Make It Worse]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/dont-pick-at-it-youll-only-make-it-worse/" />
-  <id>http://taleisin.com/dont-pick-at-it-youll-only-make-it-worse</id>
+  <link rel="alternate" type="text/html" href="/dont-pick-at-it-youll-only-make-it-worse/" />
+  <id>/dont-pick-at-it-youll-only-make-it-worse</id>
   <published>2016-07-11T14:00:27+12:00</published>
   <updated>2016-07-11T14:00:27+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1581,189 +867,9 @@ quick!&lt;/p&gt;
 Taleisin  into the  cradle  and had  a  couple  of attempts  to  get her  seated
 properly. I  probably drove the guys  in the boat  yard nuts as I  was concerned
 at  every  step of  the  process.  Who wouldn’t  be,  a  boat like  Taleisin  in
-irreplaceable. A big thank you to the crew  in the boat yard for putting up with
-me!&lt;/p&gt;
+irreplaceable. A big thank...
+    &lt;p&gt;&lt;a href=&quot;/dont-pick-at-it-youll-only-make-it-worse/&quot;&gt;Continue reading Don&#39;t Pick at It, You&#39;ll Only Make It Worse here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 11, 2016.&lt;/p&gt;
 
-&lt;p&gt;Once Taleisin came out  of the water my parents thought I  was silly for wanting
-to haul her and paint the hull,  “There’s nothing wrong with it, it looks good”.
-Then  came  the mandatory  water  blasting,  again I  was  very  explicit in  my
-instructions, keep  the lance far  away from the hull,  I don’t want  any damage
-from water blasting! While the water  blasting process was taking place we could
-see the anti fouling just flaking off. I’ll be the first to admit that I thought
-we’d just be fairing in a few bits here and there and then painting over the top
-to get her back in the water with a nice smooth bottom quickly.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/24368144710/in/dateposted-public/&quot; title=&quot;IMG_1540&quot;&gt;&lt;img src=&quot;https://c7.staticflickr.com/2/1700/24368144710_bdf0100f5b_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1540&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;We went off to the store to get some supplies to get the sanding started. That’s
-when  the first  signs of  woes to  come started  to appear.  Touching the  anti
-fouling in some places caused it to  flake off, hosing it down with tap pressure
-only did the same. Other areas it was &lt;strong&gt;stuck&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We had to hand sand as they only allowed wet sanding in the yard. It became soul
-destroying very quickly and  there was no visible progress at  all. When you get
-something that looks like  it might be faired in some paint  would flake off and
-you start  again. Poking and  anything makes it  worse, sanding in  other places
-makes it worse. This is soul destroying work.&lt;/p&gt;
-
-&lt;p&gt;It wasn’t  long before I realised  that we have to  go all the way  down to bare
-teak. This was not  the plan! This job is much much  bigger than anticipated. So
-much for the  list, now it’s just  a matter of getting this  one task completed.
-Taleisin might only be twenty nine and a half feet long, but she’s a HUGE boat.&lt;/p&gt;
-
-&lt;p&gt;At  this  point  I  started  to  make  some phone  calls  to  see  how  much  it
-might  cost to  get a  professional to  come  and do  the job,  most refused  to
-touch  wooden  boats. There  was  only  one man  for  the  job, Alan  Boyd  from
-&lt;a href=&quot;http://x-foul-e-8.com&quot;&gt;x-foul-e-8&lt;/a&gt;. The only problem was that Alan was busy and
-couldn’t come and do  the job. Alan was kind enough to come  out to Taleisin and
-provide very good advice.&lt;/p&gt;
-
-&lt;p&gt;After  Alan  advised  us on  how  to  proceed  we  had scrapers  to  remove  the
-antifouling. Progress  was being made,  but it was  still really slow  going. We
-scraped for 4 days, over the long weekend. Nobody in their right mind would find
-this even remotely enjoyable. This is really  the dark side of boat ownership. I
-believe it should be mandatory for any would be owner to clean the bottom of the
-boat he intends to buy first, if you’re still wanting the boat after that you’re
-good. It would  be interesting to see  how many people would still  go ahead and
-buy the boat after that.&lt;/p&gt;
-
-&lt;p&gt;After the scraping we still had to sand.  It was at this point that Annie talked
-some sense into me and I realised that it  would be cheaper for me to be at work
-while I paid someone else to finish the  job. It’s possible that one day I might
-listen to her up front…&lt;/p&gt;
-
-&lt;p&gt;The hard  part was  telling my  dad that I’m  getting someone  else to  come and
-finish the job, my dad is one of those people who refuses to pay someone to do a
-job he can do himself.  I felt guilty having put him to work  for 4 days of soul
-destroying work only to get someone else to finish it up. Thanks Dad for all the
-hard work, I really do appreciate it, I still feel bad for letting you work that
-hard only to  end up getting someone else  to finish the job! In  my defence the
-work was actually far from over, it would have taken us a long time to finish it
-up.&lt;/p&gt;
-
-&lt;p&gt;After a few phone calls back and forth  I finally managed to get a day that Alan
-could come and do the work. Suffice to say  Alan made it look like it was a walk
-in the park compared  to what we went through. The result  was awesome. This did
-mean that  Taleisin was sitting  on the hard over  the second long  weekend with
-nothing being  done too her. I  do believe everybody deserved  the break though,
-the job was horrible and the pay was even worse!&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28152557901/in/dateposted-public/&quot; title=&quot;IMG_1545-2&quot;&gt;&lt;img src=&quot;https://c6.staticflickr.com/9/8585/28152557901_0c19fd747d_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1545-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28152555031/in/dateposted-public/&quot; title=&quot;IMG_1547-2&quot;&gt;&lt;img src=&quot;https://c8.staticflickr.com/8/7632/28152555031_be6cd97d92_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1547-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;The next  step was to get  painting done. Having  learnt my lesson on  the paint
-removal part (also  I’ll admit reluctantly that Annie was  the sensible one, yet
-again)… I enlisted  the help of professionals for this.  They promised me they
-would start within a  day or 2 of Alan finishing his job.  This was important as
-it was  during the  hottest part  of the  year (yes  lessons have  been learnt).
-Taleisin was starting to dry out and she needed some paint on her bottom.&lt;/p&gt;
-
-&lt;p&gt;Naturally,  as with  anything  that involves  a boat,  things  take longer  than
-expected. To those well  versed in the drill this will come  as no surprise, yet
-somehow I’m surprised every time! The  company doing the painting couldn’t start
-until the following week. While waiting on  the painting to start I noticed that
-the seams are opening. This is not good news for a wooden boat.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/27949524180/in/dateposted-public/&quot; title=&quot;IMG_1548&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/9/8848/27949524180_63ceebde7a_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1548&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;At this point I stopped reading online forums, every man and his dog was 
-reporting on my progress on the forums 
-&lt;a href=&quot;http://forums.sailinganarchy.com/index.php?showtopic=171298&amp;amp;hl=taleisin&amp;amp;page=2&quot;&gt;here&lt;/a&gt; 
-and &lt;a href=&quot;http://forum.woodenboat.com/showthread.php?171680-The-Pardeys-are-selling-Taleisin/page2&amp;amp;highlight=Taleisin&quot;&gt;here&lt;/a&gt;. 
-I hit a bit of a panic and of course knowing that the internet is watching I 
-figured I had to do something and quick.&lt;/p&gt;
-
-&lt;p&gt;I pulled out  my phone and started with  A in my phone book.  I called everybody
-that I thought might be able and willing  to help. I called Annie and told her I
-was going to bucket  salt water onto the hull to get her  wet again. By the time
-Annie arrived (50 minutes or so later) she saw this:&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/45nt5SM7dj0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;I think this was quite an unexpected  evening for most of my friends and family,
-it was a great relief to have such wonderful friends and family! Most people had
-a lot of  fun, sure it was  hard work. It’s not  everyday you get to  be part of
-something this  crazy though  (and when  I do  crazy, it’s  usually on  a fairly
-decent scale)!&lt;/p&gt;
-
-&lt;p&gt;The bucket brigade was a huge success, albeit a little redundant. The next day I
-drove all  over Auckland talking  and meeting with  boat builders. It  turns out
-that since Taleisin  has been in the water  for so long, a hose  would have done
-the trick just fine as there’s plenty of  salt in the wood. The boat builder had
-a chuckle and said, “don’t lose any sleep over it”. Lessons learnt, but when you
-hit a panic you solve a problem with the tools you have at your disposal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A very special thank you to everybody that answered the call that night, it is
-very much appreciated!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After some panic, running around, getting advice, hiding, and other shenanigans.
-I finally  get around to  doing what I  should have done  in the first  place. I
-bought  a lot  of shade  cloth and  hung it  around Taleisin.  This made  a huge
-difference.&lt;/p&gt;
-
-&lt;p&gt;After about  3 weeks on  the hard the painting  finally got underway.  After the
-primer went on I breathed a sigh of relief! The guys painting Taleisin was great
-and got  a coat of  paint on before  the 3 weekend  started, this made  me sleep
-quite  a  bit better.  As  with  the  guys in  the  boat  yard, these  guys  had
-to  put  up with  a  lot  from  me.  A big  thank  you  to  the team  at  &lt;a href=&quot;http://www.glossboats.co.nz&quot;&gt;Gloss
-boats&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/27949514230/in/dateposted-public/&quot; title=&quot;IMG_1559-2&quot;&gt;&lt;img src=&quot;https://c7.staticflickr.com/9/8677/27949514230_bbe7d71275_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1559-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Next it was  a coat of blue anti foul.  The theory is that when we  start to see
-blue on the hull  Taleisin is due for a few coats of  paint rather than just one
-coat annually. Time will tell if this is a sound theory or not.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/27949512700/in/dateposted-public/&quot; title=&quot;IMG_1561-2&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/9/8687/27949512700_7e0d8f23bd_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1561-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Naturally this is followed by two coats in her natural colour.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28230177665/in/dateposted-public/&quot; title=&quot;IMG_1567-2&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/9/8777/28230177665_e39c9c6270_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1567-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;After the  painting was  completed there  was one more  challenge, a  huge storm
-rolled in. This was a pretty nasty one and a few boats ended on the rocks in the
-mooring area where we keep Taleisin.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28230176065/in/dateposted-public/&quot; title=&quot;IMG_1569&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/9/8839/28230176065_b68362214d_c.jpg&quot; width=&quot;600&quot; height=&quot;800&quot; alt=&quot;IMG_1569&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;The storm delayed  us getting back in the  water, which was fine with  me. I was
-actually happier with  Taleisin on the hard  than in the water.  After the storm
-ran it’s course I was very sad to see that the little boat above was Patricia, a
-carvel plank  H28. She went  back in the  water just as  we came out.  Her owner
-spent a very long time fixing her up to get back in the water. I remember having
-some banter  with him regarding engines.  He had to haul  Patricia again because
-there was a leak around the prop shaft - I was a little smug about the fact that
-Taleisin doesn’t have those kinds of issues.  I was heart broken when I saw this
-though:&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/27614521804/in/dateposted-public/&quot; title=&quot;IMG_1576-2&quot;&gt;&lt;img src=&quot;https://c5.staticflickr.com/8/7499/27614521804_fb3dc51a0b_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1576-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;After what can only be described as a nightmare of 4 weeks long, we were finally
-getting the old girl back in the water.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/28230173915/in/dateposted-public/&quot; title=&quot;IMG_1572-2&quot;&gt;&lt;img src=&quot;https://c4.staticflickr.com/9/8575/28230173915_c8a367ef2b_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1572-2&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Getting  Taleisin  back on  the  mooring  was  rather  uneventful or  free  from
-adventure if you wish…&lt;/p&gt;
-
-&lt;p&gt;A few days after I had finally got the  nerve to give Lin a call, I told her the
-story. Lin had a chuckle and said: “Taleisin is a tough old boat”, what I should
-have done was given Lin a call from the start and save myself a lot of worrying.
-It’s how ever  very easy to be  reasonable after the fact, hind  sight is always
-20/20.&lt;/p&gt;
-
-&lt;p&gt;It’s taken me quite a while to write  about this ordeal, it’s not always easy to
-face up to your short comings and admit that things weren’t always perfect. This
-story  did have  a happy  ending, but  I can  assure you  that it  was a  fairly
-stressful time for me. I have to admit  that the internet was rather kind to me,
-it could have been so much worse!&lt;/p&gt;
-
-&lt;p&gt;Thank you to  everybody who stopped by  an offered support and thank  you to all
-those  who got  roped into  helping  with something  at some  point during  this
-adventure.&lt;/p&gt;
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/dont-pick-at-it-youll-only-make-it-worse/&quot;&gt;Don&#39;t Pick at It, You&#39;ll Only Make It Worse&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 11, 2016.&lt;/p&gt;
   </content>
 </entry>
 
@@ -1772,13 +878,13 @@ adventure.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Guest Blog  Post at  the Unlikely  Boat Builder]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder/" />
-  <id>http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder</id>
+  <link rel="alternate" type="text/html" href="/guest-blog-post-at-the-unlikely-boat-builder/" />
+  <id>/guest-blog-post-at-the-unlikely-boat-builder</id>
   <published>2016-04-29T12:57:58+12:00</published>
   <updated>2016-04-29T12:57:58+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1792,7 +898,8 @@ his blog.&lt;/p&gt;
 &lt;p&gt;bought Taleisin. You can read the post &lt;a href=&quot;http://www.unlikelyboatbuilder.com/2016/04/why-did-you-buy-taleisin.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder/&quot;&gt;Guest Blog  Post at  the Unlikely  Boat Builder&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;/guest-blog-post-at-the-unlikely-boat-builder/&quot;&gt;Continue reading Guest Blog  Post at  the Unlikely  Boat Builder here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
+
   </content>
 </entry>
 
@@ -1801,13 +908,13 @@ his blog.&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Defeated in the Marina]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/defeated-in-the-marina/" />
-  <id>http://taleisin.com/defeated-in-the-marina</id>
+  <link rel="alternate" type="text/html" href="/defeated-in-the-marina/" />
+  <id>/defeated-in-the-marina</id>
   <published>2016-01-22T20:56:04+13:00</published>
   <updated>2016-01-22T20:56:04+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
+    <uri></uri>
     
   </author>
   <content type="html">
@@ -1843,210 +950,9 @@ know is normal for everything boat related. Eventually we get Taleisin ready for
 sailing and start to go over “the plan”.&lt;/p&gt;
 
 &lt;p&gt;So what’s the plan, Annie asks? We drop the mooring lines, I put the outboard in
-reverse. We back out slowly, use Taleisin’s  rudder to steer and then get out of
-here. Lets just give  it a go. That’s fine, Annie said, but  the wind has picked
-up a bit…&lt;/p&gt;
+reverse. We back out slowly, use Taleisin’s  rudder to steer and t...
+    &lt;p&gt;&lt;a href=&quot;/defeated-in-the-marina/&quot;&gt;Continue reading Defeated in the Marina here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 22, 2016.&lt;/p&gt;
 
-&lt;p&gt;We’ll be fine, I said…&lt;/p&gt;
-
-&lt;p&gt;We dropped the mooring  lines, I put the outboard in  reverse and Taleisin backs
-out slowly. All  is going great so  far. Watch out behind you,  said Annie, that
-boat is getting closer. I look behind me. I put the outboard in forward. We move
-forward. Move the  tiller to the other  side we need to turn.  It’s not working,
-says Annie. The wind was blowing the bow  off. We’re going to hit in front Annie
-yells. Back in reverse. We do this a  few times. While we’re doing this the wind
-is blowing  us sideways down  the channel.  “Take the dingy  and go push  on the
-bow”, yells a spectator. What he didn’t know  is that I made a fatal mistake and
-secured the dinghy a bit too well and there  was no way I would be able to untie
-it in time. This was completely and utterly stupid of me.&lt;/p&gt;
-
-&lt;p&gt;I decided  to just  gun the outboard.  We need to  pick up  way so we  can turn.
-That’s what the  problem is. We’re still  not turning. Back in  reverse, gun it!
-Whoops that  boat behind  me is  getting close. I  hit a  piling with  the stern
-anchor - I’ve bent  it slightly but it will survive. At this  point I think that
-it might  be a  good idea to  go forward.  By now  the bow is  in a  much better
-position  and we  might actually  get out.  I reach  for the  gear lever  on the
-outboard and flick it to forward…&lt;/p&gt;
-
-&lt;p&gt;Did I say we’ll be fine? I was wrong…&lt;/p&gt;
-
-&lt;p&gt;Except for the fact that I didn’t close the throttle while almost at full speed.
-Big mistake. Rookie Mistake. The dingy still  tied to the quarter lifts it’s bow
-out of the water and stands up right, I  try to hang onto the seat. No luck. The
-outboard gets drowned. I end up in  the water. Taleisin is still heading for the
-boats in front  of her. Annie thinking  quickly and with a bit  of guidance from
-the audience we’ve now assembled on the dock, sprints up the bowsprit, grabs the
-forestay, both feet up against the boat in front of us. She fends like a champ!&lt;/p&gt;
-
-&lt;p&gt;No crash  yet, that’s  good right.  While all of  this is  happening I’m  in the
-water. Thinking to myself “oh crap, I have  to get back on board because this is
-going south fast”. Hanging off the side  of Taleisin I quickly drag myself up to
-the bow so I can get up on the bobstay to climb back on board. Another spectator
-on the dock yells, get your motor going! I hop in Ducky, try to get her started,
-no luck.&lt;/p&gt;
-
-&lt;p&gt;As soon as I get  back on board I see one of our  neighbors motoring out to come
-and rescue us. “Throw  me a line”, he yells! “I’ll tow you  into the channel, no
-worries mate”! I declined and opted to go back to the slip. “I killed the motor,
-no idea how I’ll get back”!&lt;/p&gt;
-
-&lt;p&gt;Just as we’re pulling  into the slip the marina boat shows up.  I quietly say to
-Annie, I’m  in a  lot of trouble  now, they wont  be happy  about this. I  had a
-sheepish  look  on my  face  and  was very  apologetic  about  the whole  thing.
-Everybody just smiled and said “that’s boating, it won’t be your last…”&lt;/p&gt;
-
-&lt;p&gt;At this point I’m feeling pretty well  defeated. I’ve been defeated in the past,
-but  NEVER like  this. Usually  there’s  some upside  to  the defeat  for me.  I
-honestly could not  find an upside, nothing  went well. I did a  bunch of really
-dumb  things,  and I  couldn’t  even  try to  deny  it.  The results  spoke  for
-themselves.&lt;/p&gt;
-
-&lt;p&gt;The marina boat  crew and our rescue crew  just had a chuckle and  were on their
-way. We did give our rescuer a pack of beers as a thank you.&lt;/p&gt;
-
-&lt;p&gt;The outboard seemed to be fine when I got  it home and started it, I had a small
-win. I was moping around for a few  days not quite knowing how to deal with this
-defeat. My  tail was  firmly tucked  between my  legs. I  started reading  up on
-warping techniques and  other engineless maneuvers. It took me  a while to build
-up the courage to  take Taleisin out again. I did have  a perfect excuse though,
-winter was in full swing and the weather was pretty nasty. My research paid off,
-eventually,  we moved  Taleisin  to her  mooring  on our  own  without too  much
-trouble. I  should probably listen to  Annie more, but my  stubbornness seems to
-get the better of me at times.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Please feel  free to  leave a comment  with your own  experiences. I  think I’ve
-recovered from the trauma inflicted upon my  ego, you’re allowed to have a laugh
-at my expense. Looking forward to hearing from anybody who reads this.&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/defeated-in-the-marina/&quot;&gt;Defeated in the Marina&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 22, 2016.&lt;/p&gt;
-  </content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[Ditching Work to Go Sailing...]]></title>
-  <link rel="alternate" type="text/html" href="http://taleisin.com/ditching-work-to-go-sailing/" />
-  <id>http://taleisin.com/ditching-work-to-go-sailing</id>
-  <published>2016-01-20T16:24:28+13:00</published>
-  <updated>2016-01-20T16:24:28+13:00</updated>
-  <author>
-    <name>Eben and Annie</name>
-    <uri>http://taleisin.com</uri>
-    
-  </author>
-  <content type="html">
-    &lt;p&gt;So you wake up in the morning, it’s  perfect weather, the wind is just enough to
-move  the boat  at a  slow  pace. You  think  to yourself,  “excellent, lets  to
-sailing”. Suddenly you realise it’s Tuesday morning and you’re supposed to be at
-work for meetings. So you make a decision….&lt;/p&gt;
-
-&lt;p&gt;I did attend the required meetings and  told everybody in the office, that’s it,
-I’m going sailing  see you tomorrow! I  went home, had a quick  lunch and loaded
-Ducky in the car. Annie and I were off to the dock…&lt;/p&gt;
-
-&lt;p&gt;I’m very  fortunate that I can  at times have flexibility  around working hours,
-most of the time  we’re very busy and I have to keep  my nose to the grindstone.
-I’m working towards freeing more time up  for playing. Annie is a school teacher
-and she’s fortunately still on holiday.&lt;/p&gt;
-
-&lt;p&gt;We’re becoming  more efficient at getting  away from the dock.  We were motoring
-towards Taleisin in  Ducky in no time  at all. Once onboard Taleisin  we got her
-prepped for  sailing, we looked  at each  other. We each  took a deep  breath. I
-hoisted the main sail. We cast off the mooring line. Taleisin fell off the wind.
-The main sail filled and we were sailing!&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/24141559759/in/dateposted-public/&quot; title=&quot;IMG_1517&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1467/24141559759_ca80f35045_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1517&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Once we  built up a little  way Annie hoisted the  stays’l, I sheeted it  in and
-Taleisin was moving well.  We only set the stays’l since we  just wanted to sail
-at  a snails  pace and  enjoy  the water.  We were  not  going fast  but it  was
-glorious!&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/23881140514/in/dateposted-public/&quot; title=&quot;IMG_1518&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1660/23881140514_16466c906b_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1518&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;Since we were moving  slowly and just kicking back Annie went  down below to get
-her fishing rod.  She sat on the  cabin top happily trawling  while we’re moving
-slowly through  the water. I  could tell by  the look on  her face that  she was
-quite content. I should point out that she was fishing and directing me where to
-go etc…&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/23881375394/in/dateposted-public/&quot; title=&quot;IMG_1520&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1576/23881375394_afa50b1157_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1520&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;While  Annie was  trying to  catch dinner  I was  happily sailing  the boat  and
-tacking back  and forth on my  own. I’m sure it  was less than impressive  but I
-wanted to experiment  and it was fun  and non threatening. It felt  like a great
-opportunity to  do some  learning. We didn’t  spend a huge  amount of  time out,
-maybe an hour or two. Then is was time to head back to the mooring.&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/23882532203/in/dateposted-public/&quot; title=&quot;IMG_1522&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1476/23882532203_c1fd3dc935_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1522&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/23881134184/in/dateposted-public/&quot; title=&quot;IMG_1521&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1506/23881134184_eb69c94f35_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;IMG_1521&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-&lt;p&gt;When we got closer to the mooring field  we decided to drop the stays’l and sail
-in under  the main  only. In  theory that sounded  like it  would work,  but the
-current was stronger than our drive under  main only. Realising the error in our
-ways we  had the stays’l up  again and made our  way into the mooring  field. We
-dropped the stays’l again and attempted  to approach the mooring from down wind.
-Things didn’t work out that well. Annie said, umm that boat behind us is getting
-closer. The boat was not moving, we were going backwards.&lt;/p&gt;
-
-&lt;p&gt;I ran forward hoisted the stays’l, yelled  “sheet it in”! Taleisin picked up way
-again and Annie was  able to steer us clear of the  few surrounding boats. While
-she was doing this I moved quickly and maybe in a slight panic to get Ducky tied
-on the quarter and get the engine running.&lt;/p&gt;
-
-&lt;p&gt;Once the engine started  to push Taleisin I dropped the  sails. Annie said, “The
-boats not turning the right way”! Due to the fact that the engine is pushing her
-in the other direction. I responded, “then  turn the other way”! Annie moved the
-tiller, Taleisin  responded and  we steered  well clear of  all other  boats. In
-reality we were never  anywhere near any of these boats  they were actually well
-clear of us - it just felt like  they were getting closer. We probably had a few
-boat lengths between us at all times.&lt;/p&gt;
-
-&lt;p&gt;Great, now  we have  control of  the situation! “Where’s  the mooring  buoy?”, I
-asked. Annie  pointed it  out and  we slowly pushed  Taleisin towards  it. While
-doing this is  became obvious that the wind  wants to blow the bow  off and just
-using the tiller  alone was not going  to do the trick.  I started experimenting
-and learning again. I found that if I moved the outboard tiller all the way over
-I can  use it like  a stern thruster  and quickly point  the bow in  a different
-direction.&lt;/p&gt;
-
-&lt;p&gt;We tried to get to the mooring buoy,  no luck, the current keeps pushing us off.
-“Approach it so the current pushes you onto the mooring”, says Annie, “Like I’ve
-already told you to do”. So we gave that a try, it worked, easily. I grabbed the
-buoy and tied a line to it so I  could in theory relax and deal with things in a
-calm manner.&lt;/p&gt;
-
-&lt;p&gt;Nice idea, I still  felt the need to haul the mooring line  over the bow roller,
-tied another  line through the  attachment loop and  secured it around  a winch.
-“Let’s get  this thing secured”,  after a  bit of effort  we managed to  get the
-mooring attached securely. I turned to Annie and gave her a high five, “success,
-we did it”!&lt;/p&gt;
-
-&lt;p&gt;I will  confess that  my adrenaline  spiked and I  was less  than cool  calm and
-collected. Annie was a champ, she never missed  a beat! I needed to sit down and
-collect myself. I  also had the greatest  feeling of accomplishment as  I sat on
-the foredeck! Who  knew that something this simple can  feel this satisfying! Is
-this what is meant by enjoying the simpler things in life?&lt;/p&gt;
-
-&lt;p&gt;We tidied Taleisin up, Annie put some salt water on the deck. We loaded Ducky up
-and went  back to the dock.  Once we were tied  up I remember thinking,  “Wow, I
-didn’t loose anything overboard”.  That was a bad thought. Just  as I lifted the
-outboard from Ducky I noticed the trim rod  was lose and hanging out. I tried to
-put the motor down to get it and at the moment it fell out and I watched it sink
-in the water.  This is just ridiculous!  At this rate I’ll have  nothing left to
-lose soon!&lt;/p&gt;
-
-&lt;p&gt;We  went home,  content with  yet another  adventure provided  by Taleisin,  she
-surely is turning out to be an adventure machine.&lt;/p&gt;
-
-
-    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/ditching-work-to-go-sailing/&quot;&gt;Ditching Work to Go Sailing...&lt;/a&gt; was originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 20, 2016.&lt;/p&gt;
   </content>
 </entry>
 
