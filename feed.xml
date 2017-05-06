@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://taleisin.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://taleisin.com" />
-<updated>2017-05-07T07:02:55+12:00</updated>
+<updated>2017-05-07T08:55:14+12:00</updated>
 <id>http://taleisin.com/</id>
 <author>
   <name>Eben and Annie</name>
@@ -27,29 +27,29 @@
     
   </author>
   <content type="html">
-    &lt;p&gt;It would appear that I messed up the email system with the last post. Hopefully
-this issue will not re-occur in the future since I’ve added an automated check
+    &lt;p&gt;It would appear that I messed up  the email system with the last post. Hopefully
+this issue will not re-occur in the  future since, I’ve added an automated check
 before updating the blog.&lt;/p&gt;
 
-&lt;p&gt;If you’re not technical then you can stop reading now and click through at the
-bottom of the email to previous post or click
+&lt;p&gt;If   you’re  not   technical  then   you  can   stop  reading   now  and   click
+through   at   the  bottom   of   the   email   to   previous  post   or   click
 &lt;a href=&quot;http://www.taleisin.com/river-adventures/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;p&gt;If you’re technical and care about what went wrong…&lt;/p&gt;
 
-&lt;p&gt;Mailchimp cannot deal with relative urls in the rss feed. This means that
-I have to tell Jekyll to use absolute urls. If I’m using absolute urls
-I cannot test the blog on my local machine since the links all point to the live
-site. I thought I had solved the issue by changing the config file with a script
-before serving locally and deploying remotely. Clearly something went wrong in
-the script (which works when I test it, you know the old “it works on my machine
-excuse”). I’ve now added a condition to the deploy script to only deploy if the
+&lt;p&gt;Mailchimp cannot deal with relative urls in the rss feed. This means that I have
+to tell Jekyll  to use absolute urls.  If I’m using absolute urls  I cannot test
+the blog  on my  local machine since  the links  all point to  the live  site. I
+thought I had solved the issue by  changing the config file with a script before
+serving  locally and  deploying remotely.  Clearly something  went wrong  in the
+script (which  works when I test  it, you know the  old “it works on  my machine
+excuse”). I’ve now added a condition to  the deploy script to only deploy if the
 absolute urls are present in the rss feed.&lt;/p&gt;
 
-&lt;p&gt;In theory this should prevent broken links in emails going forward, but if 20+
-years in IT has taught me anything… This too will be proven wrong in the
+&lt;p&gt;In theory this should  prevent broken links in emails going  forward, but if 20+
+years in  IT has  taught me  anything… This too  will be  proven wrong  in the
 future.&lt;/p&gt;
 
     &lt;p&gt;&lt;a href=&quot;http://taleisin.com/email-issues/&quot;&gt;Continue reading Email Issues here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 07, 2017.&lt;/p&gt;
