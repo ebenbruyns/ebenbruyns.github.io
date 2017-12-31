@@ -2,28 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Taleisin - Adventure Machine!</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="/feed.xml" />
-<link rel="alternate" type="text/html" href="" />
-<updated>2017-06-08T16:39:43+12:00</updated>
-<id>/</id>
+<link rel="self" type="application/atom+xml" href="http://taleisin.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://taleisin.com" />
+<updated>2017-12-31T15:55:54+13:00</updated>
+<id>http://taleisin.com/</id>
 <author>
   <name>Eben and Annie</name>
-  <uri>/</uri>
+  <uri>http://taleisin.com/</uri>
   
 </author>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Email Issues]]></title>
-  <link rel="alternate" type="text/html" href="/email-issues/" />
-  <id>/email-issues</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/email-issues/" />
+  <id>http://taleisin.com/email-issues</id>
   <published>2017-05-07T06:49:50+12:00</published>
   <updated>2017-05-07T06:49:50+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -52,23 +50,21 @@ absolute urls are present in the rss feed.&lt;/p&gt;
 years in  IT has  taught me  anything… This too  will be  proven wrong  in the
 future.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/email-issues/&quot;&gt;Continue reading Email Issues here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 07, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/email-issues/&quot;&gt;Continue reading Email Issues here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 07, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[River Adventures]]></title>
-  <link rel="alternate" type="text/html" href="/river-adventures/" />
-  <id>/river-adventures</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/river-adventures/" />
+  <id>http://taleisin.com/river-adventures</id>
   <published>2017-05-06T16:56:17+12:00</published>
   <updated>2017-05-06T16:56:17+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -97,23 +93,21 @@ trip over two days instead of one.&lt;/p&gt;
 
 &lt;p&gt;We finally had a bit of wind so we cast the dock lines off and set sail! It took
 us all  afternoon to make it  as far...
-    &lt;p&gt;&lt;a href=&quot;/river-adventures/&quot;&gt;Continue reading River Adventures here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 06, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/river-adventures/&quot;&gt;Continue reading River Adventures here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on May 06, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Life Aboard Taleisin]]></title>
-  <link rel="alternate" type="text/html" href="/life-aboard-taleisin/" />
-  <id>/life-aboard-taleisin</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/life-aboard-taleisin/" />
+  <id>http://taleisin.com/life-aboard-taleisin</id>
   <published>2017-02-16T10:16:07+13:00</published>
   <updated>2017-02-16T10:16:07+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -144,23 +138,21 @@ We’ve been living  at the dock without electricity, other  than that provided 
 our 100  watt solar panel.  Honestly it’s not a  hardship, we love  the kerosene
 lamps and  cooking with LPG (aka  propane) is a joy.  The ice box does  it’s job
 well enough that we don’t miss the fridge. You can tell ...
-    &lt;p&gt;&lt;a href=&quot;/life-aboard-taleisin/&quot;&gt;Continue reading Life Aboard Taleisin here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on February 16, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/life-aboard-taleisin/&quot;&gt;Continue reading Life Aboard Taleisin here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on February 16, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[What Is It With Power Boats?]]></title>
-  <link rel="alternate" type="text/html" href="/what-is-it-with-power-boats/" />
-  <id>/what-is-it-with-power-boats</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/what-is-it-with-power-boats/" />
+  <id>http://taleisin.com/what-is-it-with-power-boats</id>
   <published>2017-01-18T19:31:07+13:00</published>
   <updated>2017-01-18T19:31:07+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -199,23 +191,21 @@ were motoring out, it was 7am.&lt;/p&gt;
 &lt;p&gt;Once we got out of the river I said  to Annie, lets get some sail up! We hoisted
 the sails and the wind filled them. We  closed the throttle on the motor and put
 it in neutral. That’s when the wind d...
-    &lt;p&gt;&lt;a href=&quot;/what-is-it-with-power-boats/&quot;&gt;Continue reading What Is It With Power Boats? here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/what-is-it-with-power-boats/&quot;&gt;Continue reading What Is It With Power Boats? here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Never Miss Another Adventure]]></title>
-  <link rel="alternate" type="text/html" href="/never-miss-another-adventure/" />
-  <id>/never-miss-another-adventure</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/never-miss-another-adventure/" />
+  <id>http://taleisin.com/never-miss-another-adventure</id>
   <published>2017-01-18T17:44:33+13:00</published>
   <updated>2017-01-18T17:44:33+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -232,23 +222,21 @@ something together to make it happen.&lt;/p&gt;
 your email address in the box below and subscribe to our mailing list.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/never-miss-another-adventure/&quot;&gt;Continue reading Never Miss Another Adventure here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/never-miss-another-adventure/&quot;&gt;Continue reading Never Miss Another Adventure here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 18, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Small Adventures]]></title>
-  <link rel="alternate" type="text/html" href="/small-adventures/" />
-  <id>/small-adventures</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/small-adventures/" />
+  <id>http://taleisin.com/small-adventures</id>
   <published>2017-01-12T18:37:26+13:00</published>
   <updated>2017-01-12T18:37:26+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -280,23 +268,21 @@ push  her off.  Fending is  also a  lot easier  as she  weighs a  lot less  than
 Taleisin.&lt;/p&gt;
 
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/32112616382/in/photostream/&quot; title=&quot;Taken by Lin Pardey all copyright belongs to Lin Pardey. Published with permission.&quot;&gt;&lt;img src=&quot;https://c1.staticflickr.com/1/358/32112616382_a0f7da1c5d_c.jpg&quot; width=&quot;800&quot; height=&quot;600&quot; alt=&quot;Taken by Li...
-    &lt;p&gt;&lt;a href=&quot;/small-adventures/&quot;&gt;Continue reading Small Adventures here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 12, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/small-adventures/&quot;&gt;Continue reading Small Adventures here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 12, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Rookie Mistake]]></title>
-  <link rel="alternate" type="text/html" href="/rookie-mistake/" />
-  <id>/rookie-mistake</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/rookie-mistake/" />
+  <id>http://taleisin.com/rookie-mistake</id>
   <published>2017-01-08T18:33:23+13:00</published>
   <updated>2017-01-08T18:33:23+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -331,23 +317,21 @@ motoring. I’ll take that as a small victory.&lt;/p&gt;
 &lt;p&gt;We had, what I thought,  a clean line to sail out of the  harbour. So I kept the
 course I  was steering.  Then things  changed a  little and  I recall  saying to
 Annie. We’re too close to the headland,...
-    &lt;p&gt;&lt;a href=&quot;/rookie-mistake/&quot;&gt;Continue reading Rookie Mistake here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 08, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/rookie-mistake/&quot;&gt;Continue reading Rookie Mistake here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 08, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Off Grid]]></title>
-  <link rel="alternate" type="text/html" href="/off-grid/" />
-  <id>/off-grid</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/off-grid/" />
+  <id>http://taleisin.com/off-grid</id>
   <published>2017-01-06T20:12:58+13:00</published>
   <updated>2017-01-06T20:12:58+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -381,23 +365,21 @@ around and  come back to  anchor. For bonus points  since it’s not  blowing th
 hard, lets try to do it under sail.&lt;/p&gt;
 
 &lt;p&gt;So we  had our plan, we  were r...
-    &lt;p&gt;&lt;a href=&quot;/off-grid/&quot;&gt;Continue reading Off Grid here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 06, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/off-grid/&quot;&gt;Continue reading Off Grid here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 06, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Back on the Grid]]></title>
-  <link rel="alternate" type="text/html" href="/back-on-the-grid/" />
-  <id>/back-on-the-grid</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/back-on-the-grid/" />
+  <id>http://taleisin.com/back-on-the-grid</id>
   <published>2017-01-04T07:41:34+13:00</published>
   <updated>2017-01-04T07:41:34+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -432,23 +414,21 @@ a good scrub down. It was a lot easier  this time. There was no tears and we got
 the job done before 5pm.&lt;/p&gt;
 
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr...
-    &lt;p&gt;&lt;a href=&quot;/back-on-the-grid/&quot;&gt;Continue reading Back on the Grid here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/back-on-the-grid/&quot;&gt;Continue reading Back on the Grid here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 04, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Baking Bread]]></title>
-  <link rel="alternate" type="text/html" href="/baking-bread/" />
-  <id>/baking-bread</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/baking-bread/" />
+  <id>http://taleisin.com/baking-bread</id>
   <published>2017-01-02T17:45:19+13:00</published>
   <updated>2017-01-02T17:45:19+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -479,23 +459,21 @@ deliberately left the outboard at home to force us to row and get better at it.
 I’m sure over time this will not be an issue at all and we’ll be healthier for
 it. One thing we have been doing is taking turns rowing. If I row out Annie will
 row back. That way we both get p...
-    &lt;p&gt;&lt;a href=&quot;/baking-bread/&quot;&gt;Continue reading Baking Bread here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 02, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/baking-bread/&quot;&gt;Continue reading Baking Bread here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 02, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Interview - Hooked on Wooden Boats]]></title>
-  <link rel="alternate" type="text/html" href="/interview-hooked-on-wooden-boats/" />
-  <id>/interview-hooked-on-wooden-boats</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/interview-hooked-on-wooden-boats/" />
+  <id>http://taleisin.com/interview-hooked-on-wooden-boats</id>
   <published>2017-01-01T10:09:36+13:00</published>
   <updated>2017-01-01T10:09:36+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -513,23 +491,21 @@ Cove we’ve never seen before. This place  is magical. When we head over that w
 again I’ll  be sure to take  some pictures. Thank  you to all the  residents for
 making our time here very pleasurable!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;/interview-hooked-on-wooden-boats/&quot;&gt;Continue reading Interview - Hooked on Wooden Boats here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 01, 2017.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/interview-hooked-on-wooden-boats/&quot;&gt;Continue reading Interview - Hooked on Wooden Boats here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on January 01, 2017.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Dinner Is Served]]></title>
-  <link rel="alternate" type="text/html" href="/dinner-is-served/" />
-  <id>/dinner-is-served</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/dinner-is-served/" />
+  <id>http://taleisin.com/dinner-is-served</id>
   <published>2016-12-30T20:29:40+13:00</published>
   <updated>2016-12-30T20:29:40+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -564,23 +540,21 @@ be quiet and, not disturb any of the boats around us.&lt;/p&gt;
 &lt;p&gt;Annie decided  that she would row  the warp out. We  attached a warp to  the old
 mooring and to the stren, the warp Annie rowed out was attached to the bow. This
 configuratio...
-    &lt;p&gt;&lt;a href=&quot;/dinner-is-served/&quot;&gt;Continue reading Dinner Is Served here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 30, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/dinner-is-served/&quot;&gt;Continue reading Dinner Is Served here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 30, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Hanging Out in North Cove]]></title>
-  <link rel="alternate" type="text/html" href="/hanging-out-in-north-cove/" />
-  <id>/hanging-out-in-north-cove</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/hanging-out-in-north-cove/" />
+  <id>http://taleisin.com/hanging-out-in-north-cove</id>
   <published>2016-12-28T19:10:05+13:00</published>
   <updated>2016-12-28T19:10:05+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -612,23 +586,21 @@ the electric windlass on her boat.&lt;/p&gt;
 wind affects the boats direction, so heading in the direction I want to go in is
 not likely to be  the direction we’re actually going. The two  girls did a great
 job fending off a power ...
-    &lt;p&gt;&lt;a href=&quot;/hanging-out-in-north-cove/&quot;&gt;Continue reading Hanging Out in North Cove here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 28, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/hanging-out-in-north-cove/&quot;&gt;Continue reading Hanging Out in North Cove here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 28, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Return to North Cove]]></title>
-  <link rel="alternate" type="text/html" href="/return-to-north-cove/" />
-  <id>/return-to-north-cove</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/return-to-north-cove/" />
+  <id>http://taleisin.com/return-to-north-cove</id>
   <published>2016-12-27T19:27:34+13:00</published>
   <updated>2016-12-27T19:27:34+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -666,23 +638,21 @@ we can have lots of room. I drop the anchor. This time I’m not messing around 
 put 35 fathoms of chain out! Now we’re holding.&lt;/p&gt;
 
 &lt;p&gt;Lin did  come by and offer  us a mooring  that’s ava...
-    &lt;p&gt;&lt;a href=&quot;/return-to-north-cove/&quot;&gt;Continue reading Return to North Cove here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 27, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/return-to-north-cove/&quot;&gt;Continue reading Return to North Cove here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 27, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Escape]]></title>
-  <link rel="alternate" type="text/html" href="/escape/" />
-  <id>/escape</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/escape/" />
+  <id>http://taleisin.com/escape</id>
   <published>2016-12-26T17:10:15+13:00</published>
   <updated>2016-12-26T17:10:15+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -718,23 +688,21 @@ bodies.&lt;/p&gt;
 about 4.5 meters of water and so far it would seem like a calm quite anchorage!&lt;/p&gt;
 
 &lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/sdki/31763627521/&quot; title=&quot;Escape&quot;&gt;&lt;img src=&quot;https://c2.staticflickr.com/1/368/31763627521_821a659ba6_c.jpg&quot; wid...
-    &lt;p&gt;&lt;a href=&quot;/escape/&quot;&gt;Continue reading Escape here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 26, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/escape/&quot;&gt;Continue reading Escape here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on December 26, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Port Townsend Wooden Boat Festival 2016]]></title>
-  <link rel="alternate" type="text/html" href="/port-townsend-wooden-boat-festival-2016/" />
-  <id>/port-townsend-wooden-boat-festival-2016</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/port-townsend-wooden-boat-festival-2016/" />
+  <id>http://taleisin.com/port-townsend-wooden-boat-festival-2016</id>
   <published>2016-10-31T16:08:31+13:00</published>
   <updated>2016-10-31T16:08:31+13:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -761,23 +729,21 @@ Seattle started early  in the morning taking  the train from our  hotel close to
 the SeaTac  airport. A short walk  from down town  Seattle to a 30  minute ferry
 ride. Once off the  Ferry we caught a bus to Poulsbo, then  we spent the bulk of
 the day in Poulsbo  wai...
-    &lt;p&gt;&lt;a href=&quot;/port-townsend-wooden-boat-festival-2016/&quot;&gt;Continue reading Port Townsend Wooden Boat Festival 2016 here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on October 31, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/port-townsend-wooden-boat-festival-2016/&quot;&gt;Continue reading Port Townsend Wooden Boat Festival 2016 here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on October 31, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Why a 20 hp Outboard]]></title>
-  <link rel="alternate" type="text/html" href="/why-a-20hp-outboard/" />
-  <id>/why-a-20hp-outboard</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/why-a-20hp-outboard/" />
+  <id>http://taleisin.com/why-a-20hp-outboard</id>
   <published>2016-08-08T14:58:17+12:00</published>
   <updated>2016-08-08T14:58:17+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -815,23 +781,21 @@ here.&lt;/p&gt;
 a quote from,  at first. This lead me  to wonder what support would  be like, if
 they are in sales  mode they are at their best, so they  won’t get any better…
 The motor  that was quoted was  not only 20%  more e...
-    &lt;p&gt;&lt;a href=&quot;/why-a-20hp-outboard/&quot;&gt;Continue reading Why a 20 hp Outboard here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on August 08, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/why-a-20hp-outboard/&quot;&gt;Continue reading Why a 20 hp Outboard here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on August 08, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Training Wheels]]></title>
-  <link rel="alternate" type="text/html" href="/training-wheels/" />
-  <id>/training-wheels</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/training-wheels/" />
+  <id>http://taleisin.com/training-wheels</id>
   <published>2016-07-31T10:59:23+12:00</published>
   <updated>2016-07-31T10:59:23+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -864,23 +828,21 @@ was very hard to get steerage as low speed.&lt;/p&gt;
 
 &lt;p&gt;Always at some  point I’d stop and  ask myself, what’s the objective?  What am I
 trying to  achieve with all of  this. The answer  is never, to give  Talei...
-    &lt;p&gt;&lt;a href=&quot;/training-wheels/&quot;&gt;Continue reading Training Wheels here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 31, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/training-wheels/&quot;&gt;Continue reading Training Wheels here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 31, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Don't Pick at It, You'll Only Make It Worse]]></title>
-  <link rel="alternate" type="text/html" href="/dont-pick-at-it-youll-only-make-it-worse/" />
-  <id>/dont-pick-at-it-youll-only-make-it-worse</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/dont-pick-at-it-youll-only-make-it-worse/" />
+  <id>http://taleisin.com/dont-pick-at-it-youll-only-make-it-worse</id>
   <published>2016-07-11T14:00:27+12:00</published>
   <updated>2016-07-11T14:00:27+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -913,23 +875,21 @@ Taleisin  into the  cradle  and had  a  couple  of attempts  to  get her  seated
 properly. I  probably drove the guys  in the boat  yard nuts as I  was concerned
 at  every  step of  the  process.  Who wouldn’t  be,  a  boat like  Taleisin  in
 irreplaceable. A big thank...
-    &lt;p&gt;&lt;a href=&quot;/dont-pick-at-it-youll-only-make-it-worse/&quot;&gt;Continue reading Don&#39;t Pick at It, You&#39;ll Only Make It Worse here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 11, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/dont-pick-at-it-youll-only-make-it-worse/&quot;&gt;Continue reading Don't Pick at It, You'll Only Make It Worse here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on July 11, 2016.&lt;/p&gt;
 
   </content>
 </entry>
 
 
-  
-
 <entry>
   <title type="html"><![CDATA[Guest Blog  Post at  the Unlikely  Boat Builder]]></title>
-  <link rel="alternate" type="text/html" href="/guest-blog-post-at-the-unlikely-boat-builder/" />
-  <id>/guest-blog-post-at-the-unlikely-boat-builder</id>
+  <link rel="alternate" type="text/html" href="http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder/" />
+  <id>http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder</id>
   <published>2016-04-29T12:57:58+12:00</published>
   <updated>2016-04-29T12:57:58+12:00</updated>
   <author>
     <name>Eben and Annie</name>
-    <uri></uri>
+    <uri>http://taleisin.com</uri>
     
   </author>
   <content type="html">
@@ -943,7 +903,7 @@ his blog.&lt;/p&gt;
 &lt;p&gt;bought Taleisin. You can read the post &lt;a href=&quot;http://www.unlikelyboatbuilder.com/2016/04/why-did-you-buy-taleisin.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 
-    &lt;p&gt;&lt;a href=&quot;/guest-blog-post-at-the-unlikely-boat-builder/&quot;&gt;Continue reading Guest Blog  Post at  the Unlikely  Boat Builder here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://taleisin.com/guest-blog-post-at-the-unlikely-boat-builder/&quot;&gt;Continue reading Guest Blog  Post at  the Unlikely  Boat Builder here.&lt;/a&gt; Originally published by Eben and Annie at &lt;a href=&quot;http://taleisin.com&quot;&gt;Taleisin - Adventure Machine!&lt;/a&gt; on April 29, 2016.&lt;/p&gt;
 
   </content>
 </entry>
