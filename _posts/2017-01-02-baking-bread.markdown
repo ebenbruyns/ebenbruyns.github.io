@@ -19,6 +19,8 @@ rocket science to bake bread. Yeast, a bit  of sugar, water and flour with a bit
 of salt will be the job done. Use a bit of elbow grease and it's not long before
 you have something that resembles dough.
 
+<!--more-->
+
 The hardest part was figuring out how to get the oven on board Taleisin to do my
 bidding. The actual baking  part took a bit longer, but I suspect  with a bit of
 trial and error I'll get the hang of it. The loaf actually came out pretty good.

@@ -26,6 +26,7 @@ along with the family on the French yacht next to us. Lin served what could only
 be described as the best salmon I've  ever had. Everything is always lovely when
 you're over  for dinner at  the Pardey's.  The company is  good and the  food is
 always excellent!
+<!--more-->
 
 We've had plenty of people come along  side Taleisin for a closer look. They are
 always very friendly  and pleasant to have  a chat to. We've  been invited twice

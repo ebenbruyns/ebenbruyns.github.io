@@ -32,8 +32,9 @@ owner:
   email:
   disqus-shortname: taleisin
   mailchimp-subscription-list: eca47e3ecd
+  patreon: 9089733  
   twitter: #username
-  facebook: #username
+  facebook: SVTaleisin
   google:
     plus: #username
     analytics: UA-69206903-1
@@ -57,6 +58,9 @@ owner:
   weibo: #username
   flickr: sdki
   codepen: #username
+
+excerpt_separator: <!--more-->
+
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

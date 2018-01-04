@@ -21,6 +21,8 @@ through   at   the  bottom   of   the   email   to   previous  post   or   click
 
 ---
 
+<!--more-->
+
 If you're technical and care about what went wrong...
 
 Mailchimp cannot deal with relative urls in the rss feed. This means that I have

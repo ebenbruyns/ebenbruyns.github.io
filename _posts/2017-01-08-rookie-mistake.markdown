@@ -27,6 +27,8 @@ to it. I feel  like we'll be better off physically in the  long run doing things
 this way, rather than  the alternative. Time will tell if this gets easier or
 more painful...
 
+<!--more-->
+
 We soon had the  anchor weighed and started to slowly sail.  Annie said, I think
 we're actually  moving backward.  No problem  I'll hoist  the stays'l.  With the
 stays'l up we were going in the right direction! Great, we sailed off the anchor

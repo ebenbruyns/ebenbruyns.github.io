@@ -15,6 +15,8 @@ Two posts in rapid succession... Something must be interesting...
 
 As you can tell from the title, this is bound to be good!
 
+<!--more-->
+
 Today I was busy refining some wood work I've been doing on Taleisin's rub rail.
 Annie was  about to go talk  to Lin about  planting some flowers for  her (Annie
 loves gardening, Lin's got  a garden that needs tending so  it's a great match).

@@ -28,6 +28,8 @@ island. It's  not in any way  related to the  timeline we're used to.  It really
 feels like  time has moved on  and this little island  is stuck in the  past. We
 absolutely love this place!
 
+<!--more-->
+
 Yesterday the  winds was a  bit more favourable  and Lin took  us out for  a few
 minutes in Felicity. She showed us the ropes so to speak and then we headed back
 to the dock.  Lin sent us off on our  way and we spent the better  part of a few

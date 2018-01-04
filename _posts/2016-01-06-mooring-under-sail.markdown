@@ -18,6 +18,7 @@ another life jacket. The extra life jacket  was for Bud, a classic sail maker in
 Auckland from  [Nalder sails](http://www.naldersails.com).  I've been  told that
 Bud is  an expert  in the field  of classic  sail making, he's  an old  salt and
 absolutely loves the classics.
+<!--more-->
 
 On board Taleisin  we started to get  her ready to go sailing,  undoing the sail
 covers, running the sheets, putting the tiller in place, the usual things you do

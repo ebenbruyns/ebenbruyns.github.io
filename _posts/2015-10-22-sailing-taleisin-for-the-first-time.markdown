@@ -34,6 +34,7 @@ as some heavy weather was forecast for  the afternoon. We decided that we'll set
 sail early  in the morning  and we should hopefully  beat the bad  weather, it's
 only about 30 nautical miles to sail. Loading Taleisin took a very long and time
 we were absolutely exhausted as we finished the last load in the dark.
+<!--more-->
 
 We got  up as early  as we could  manage, had a  quick breakfast and  started to
 prepare Taleisin  to set sail. I  rigged up a GoPro  and set it to  record while

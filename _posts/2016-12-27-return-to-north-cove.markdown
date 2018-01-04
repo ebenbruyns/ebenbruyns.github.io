@@ -25,6 +25,7 @@ winched in the anchor until we were just  about ready to lift it. We hoisted the
 stays'l. Annie grabbed the tiller and when  the anchor was up she sheeted in the
 stays'l. We were off without a hitch! I hoisted the main and the jib while Annie
 slowly sailed us out of the anchorage. It was a nice start to the day.
+<!--more-->
 
 The winds  were much better  today. We managed  to sail reasonably  smoothly all
 day. Slight bit  of chop out in  the open water but nothing  like we experienced

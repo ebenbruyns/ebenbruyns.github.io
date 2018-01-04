@@ -27,6 +27,8 @@ src="https://farm5.staticflickr.com/4681/39399924801_f6e293ff98_z.jpg"
 width="640" height="429" alt="Untitled"></a><script async
 src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<!--more-->
+
 Here's  a quick  summary of  the  adventures we've  had since  I last  published
 anything on this blog:
 

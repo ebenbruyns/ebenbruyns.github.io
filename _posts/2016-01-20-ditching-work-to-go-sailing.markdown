@@ -30,6 +30,7 @@ hoisted the main sail. We cast off the mooring line. Taleisin fell off the wind.
 The main sail filled and we were sailing!
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/24141559759/in/dateposted-public/" title="IMG_1517"><img src="https://farm2.staticflickr.com/1467/24141559759_ca80f35045_c.jpg" width="800" height="600" alt="IMG_1517"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--more-->
 
 Once we  built up a little  way Annie hoisted the  stays'l, I sheeted it  in and
 Taleisin was moving well.  We only set the stays'l since we  just wanted to sail

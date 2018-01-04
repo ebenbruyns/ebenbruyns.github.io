@@ -24,3 +24,4 @@ gathering with  the locals. We had  a great time and  got to see parts  of North
 Cove we've never seen before. This place  is magical. When we head over that way
 again I'll  be sure to take  some pictures. Thank  you to all the  residents for
 making our time here very pleasurable!
+<!--more-->

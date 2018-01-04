@@ -24,6 +24,8 @@ that we  could get away  with and  really only stored  things that we  wanted to
 store. This was challenging as it  forced us to go through absolutely everything
 we own to ensure we're not paying to store junk.
 
+<!--more-->
+
 When we  surrendered the keys to  the rental house we  still had 2 car  loads of
 stuff that we had to deal with. It was either coming with us onboard Taleisin or
 we would  have to get  rid of it  since our storage unit  was full. I  guess you

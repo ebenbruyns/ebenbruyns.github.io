@@ -48,3 +48,4 @@ Estimate of length inside "hooks" 92.360 mm.
 
 If you need more accuracy, let me know,  and I'll take screws out and measure it
 correctly.
+<!--more-->

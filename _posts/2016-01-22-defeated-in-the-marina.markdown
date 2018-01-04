@@ -27,6 +27,7 @@ engine and that should  make things much easier. So I go shopping,  I get a 2.6m
 Zodiac and an  8hp outboard. Armed with a  new sure fire way to  get Taleisin in
 and out of  the marina I study the  weather forecasts and pick a  day that seems
 like it would be perfect.
+<!--more-->
 
 We get  up early on Saturday  morning, I'm very excited  - like a little  kid on
 christmas morning. When  I'm excited about things,  I don't hide it  very well -

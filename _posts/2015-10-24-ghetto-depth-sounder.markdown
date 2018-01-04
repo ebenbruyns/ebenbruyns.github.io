@@ -31,6 +31,7 @@ transducer on  Taleisin and  that this  is just a  "portable" sounder  and chart
 plotter.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/22243349589/in/dateposted-public/" title="IMG_1337"><img src="https://farm1.staticflickr.com/663/22243349589_36106320d1_b.jpg" width="1024" height="768" alt="IMG_1337"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--more-->
 
 Lashing the pipe to the transom as  a temporary measure, I will do this slightly
 better before I take it out for a test sail.

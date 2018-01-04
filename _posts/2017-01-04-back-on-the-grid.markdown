@@ -22,6 +22,8 @@ because the wind was blowing and we weren't comfortable taking the direct route.
 We navigated our way through all the moored boats and slowly made our way to the
 jetty.
 
+<!--more-->
+
 I  followed Larry's  advice: "Don't  go any  faster than  you're willing  to hit
 something". We came  into the dock very  slow and Annie climbed  off and grabbed
 the stern line. I  had already placed the motor in neutral and  got ready to hop

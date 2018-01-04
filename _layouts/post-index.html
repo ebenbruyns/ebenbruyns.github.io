@@ -48,7 +48,7 @@
 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
         {% else %}
           <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>      <p class="article">{{ post.excerpt | strip_html | truncate: 300 }}</p>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>      <p class="article">{{ post.excerpt }}</p>
         {% endif %}
       </article>
     {% endfor %}

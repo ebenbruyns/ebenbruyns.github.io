@@ -21,6 +21,7 @@ We've had some previous attempts at getting  out of the marina, one didn't go to
 well and the other  turned into a warping practice run. I  might write about the
 first attempt one day  but the bruises are still visible on my  ego. In short, I
 ended up in the water and I drowned an outboard.
+<!--more-->
 
 So in  preparation for our adventure,  we prepared Taleisin for  sailing, talked
 through our plan, had  a disagreement, came to an agreement  and we were finally

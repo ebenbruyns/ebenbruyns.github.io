@@ -28,6 +28,8 @@ cruise up the Mahurangi river.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/32739029450/in/dateposted-public/" title="Annie Hill&#x27;s fantail. We met Bryan and Linda (the current owners) this weekend we enjoyed a nice visit and beer with the aboard taleisin this afternoon."><img src="https://c1.staticflickr.com/3/2883/32739029450_1bfefb79c9_c.jpg" width="534" height="800" alt="Annie Hill&#x27;s fantail. We met Bryan and Linda (the current owners) this weekend we enjoyed a nice visit and beer with the aboard taleisin this afternoon."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+<!--more-->
+
 We provisioned  Taleisin and played the  waiting game with the  weather and wind
 gods. When ever  you're supposed to be  somewhere at a certain time  and date it
 seems impossible to get  good weather for it. Looking at the  light winds in the

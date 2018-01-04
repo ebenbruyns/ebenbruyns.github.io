@@ -26,6 +26,7 @@ boat was on the mooring next to the one  we were moving to. We asked her if she'
 mind helping us move. She was a real sport and jumped to it.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/31120073253/" title="Hanging out in north cove"><img src="https://c6.staticflickr.com/1/452/31120073253_585b6795bd_c.jpg" width="800" height="600" alt="Hanging out in north cove"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--more-->
 
 I felt bad putting her on the windlass as she wasn't comfortable on the helm and
 our cat does not like strangers so we  couldn't give her the easy job of flaking

@@ -19,3 +19,4 @@ It's probably of interest to everybody who's following us. I wrote about why we
 bought Taleisin. You can read the post [here](http://www.unlikelyboatbuilder.com/2016/04/why-did-you-buy-taleisin.html).
 
 
+<!--more-->

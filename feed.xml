@@ -35,7 +35,7 @@ sitemap: false
     {% if author.email %}<email>{{ author.email }}</email>{% endif %}
   </author>
   <content type="html">
-    {{ post.content | truncate: 2000 | xml_escape }}
+    {{ post.excerpt | xml_escape }}
     {% include _feed-footer.html %}
   </content>
 </entry>

@@ -25,6 +25,7 @@ due in  New Zealand  shortly after and  he is  always keen to  lend a  hand with
 anything  that  resembles  work.  There's  a  lot  to  be  said  for  the  older
 generation's willingness to work, no matter  how soul destroying or miserable it
 might be. So I started to make a list (oh how naive I was in my younger days).
+<!--more-->
 
 Mum and dad arrived the day before haul out. Annie was away on school camp for a
 few days so I was  holding down the fort - well as much  as can be expected when

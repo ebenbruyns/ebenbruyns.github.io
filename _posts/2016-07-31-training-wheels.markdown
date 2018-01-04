@@ -26,6 +26,7 @@ suggestions  of sacrificing  the sits  tub for  an inboard  engine. I've  always
 listened and considered things,  but honestly when people tell me  to put a hole
 in Taleisin they normally  lose me. The day will come when I  finally put a hole
 in her somewhere, but not yet.
+<!--more-->
 
 I've spent many  hours researching motors, electric and  conventional. I've made
 new friends on  the internet while doing  this. I looked at  inboard options and

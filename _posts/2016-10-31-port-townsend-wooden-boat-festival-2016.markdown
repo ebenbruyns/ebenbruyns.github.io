@@ -23,6 +23,7 @@ we decided that life is too short, screw it - lets do it!
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30222678904/in/dateposted-public/" title="DSC_6140"><img src="https://c1.staticflickr.com/6/5692/30222678904_d7ccb6bd84_c.jpg" width="800" height="531" alt="DSC_6140"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sdki/30738394322/in/dateposted-public/" title="DSC_6117"><img src="https://c3.staticflickr.com/6/5464/30738394322_9250be565e_c.jpg" width="800" height="531" alt="DSC_6117"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<!--more-->
 
 I distinctly remember Annie asking, "What will I be doing for three whole days"?
 

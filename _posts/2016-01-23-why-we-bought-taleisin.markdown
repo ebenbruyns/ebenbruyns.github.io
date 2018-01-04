@@ -30,6 +30,7 @@ have the worst boss  in the world. How ever during the early  years working as a
 consultant we took a vacation in Fiji, the resort had a couple of Hobi Cat boats
 that we could sail.  I absolutely loved it! I couldn't get enough  of it. But we
 returned to the real world and that experience faded into a distant memory.
+<!--more-->
 
 After  a few  more years  I was  "successful" we  had the  huge house,  the huge
 mortgage, and it was  filled with a huge pile of stuff. At  this point I started

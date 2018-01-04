@@ -26,6 +26,8 @@ dictated our  sailing day. Weather  plays an important  role in sailing  for us.
 Since we're still  learning we don't like  to sail in conditions  that is beyond
 our ability and comfort levels.
 
+<!--more-->
+
 I was looking  at the forecasts for days.  There was either too much  wind or no
 wind. When I finally saw a forecast that looked like we might be able to sail in
 the morning and get close to the marina, we started to plan our journey.

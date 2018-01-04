@@ -22,6 +22,7 @@ dinghy sailing!?  The answer is simple,  of course, Cheeky's mast,  rudder, drop
 board, tiller and sail  is onboard Taleisin. Once we got  to Taleisin we grabbed
 everything we needed to rig cheeky for sailing  and went back to the dock to rig
 her up.
+<!--more-->
 
 When we got back to  the dock I spent a bit of time trying  to figure out how to
 make this little boat  sail. Granted I don't know much  about boats and sailing,

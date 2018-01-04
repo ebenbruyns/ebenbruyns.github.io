@@ -32,6 +32,7 @@ complicated and at odds with the rest  of the boat. Incidentally I looked at the
 10 kw motor too, that weighs 64kg and requires twice as many batteries, so twice
 the problem.  Not to  mention 3  times the cost  without installation  costs and
 brackets etc.
+<!--more-->
 
 So the other option is to go  for petrol. I wanted something that's simple, that
 means manual tilt, tiller steer and pull start.
