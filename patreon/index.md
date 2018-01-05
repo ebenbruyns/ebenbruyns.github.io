@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Why Patreon? 
 date: 2018-01-04T15:11:47+13:00
 modified:
 excerpt:
@@ -9,6 +9,9 @@ tags: []
 image:
   feature: hatch.jpg
 ---
+
+
+
 We thought we'd explain our reasons for adding Patreon.
 
 Firstly, lets be clear, this is not about asking our readers for money. We do
